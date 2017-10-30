@@ -58,3 +58,265 @@ PS【官服】GEN7 LC天梯分数|加分
 禁止以下这些精灵: 飞天螳螂、狃拉、小蔓藤、洋洋玛、天蝎、黑暗鸦、绵绵泡芙、瑜伽猴、梦妖、鬼气球、3D龙、萌虻、六尾
 
 5 GEN7 LC学习交流群 631393490 欢迎你前来学习交流
+
+6 GEN7 LC 标准队 【选取了最为流行的平衡队2个，和模式队伍虫网、阿罗拉墙各一个】
+
+===[gen7 lc] 标准网===
+
+Scraggy @ Fightinium Z  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 Def / 212 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Knock Off  
+- Drain Punch  
+- High Jump Kick  
+
+Shellder @ Life Orb  
+Ability: Skill Link  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Icicle Spear  
+- Rock Blast  
+- Ice Shard  
+- Razor Shell  
+
+Pumpkaboo-Super @ Eviolite  
+Ability: Frisk  
+Level: 5  
+EVs: 204 HP / 36 Def / 4 SpA / 236 SpD / 28 Spe  
+Calm Nature  
+- Giga Drain  
+- Synthesis  
+- Will-O-Wisp  
+- Fire Blast  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 236 Atk / 36 Def / 116 SpD / 116 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+
+Surskit @ Focus Sash  
+Ability: Swift Swim  
+Level: 5  
+EVs: 36 HP / 20 Def / 196 SpA / 20 SpD / 236 Spe  
+Timid Nature  
+- Sticky Web  
+- Hydro Pump  
+- Giga Drain  
+- Protect  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Energy Ball  
+- Dazzling Gleam  
+- Counter  
+
+
+===[gen7 lc] 标准阿罗拉墙===
+
+
+Vulpix-Alola @ Light Clay  
+Ability: Snow Warning  
+Level: 5  
+EVs: 52 HP / 196 SpA / 240 Spe  
+Timid Nature  
+IVs: 1 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Aurora Veil  
+- Blizzard  
+- Hidden Power [Fighting]  
+- Freeze-Dry  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe  
+Lax Nature  
+- Shell Smash  
+- Rock Blast  
+- Icicle Spear  
+- Hydro Pump  
+
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Seed Bomb  
+
+Vullaby @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 236 SpA / 116 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Dark Pulse  
+- Heat Wave  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Stealth Rock  
+- Taunt  
+
+Frillish @ Choice Scarf  
+Ability: Water Absorb  
+Level: 5  
+EVs: 76 HP / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Shadow Ball  
+- Hydro Pump  
+- Energy Ball  
+
+
+
+===[gen7 lc] 标准平衡1===
+
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 156 Def / 116 SpA / 116 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic  
+- Thunder Wave  
+- Slack Off  
+
+Snivy @ Choice Scarf  
+Ability: Contrary  
+Level: 5  
+EVs: 236 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk / 30 Def  
+- Leaf Storm  
+- Hidden Power [Ice]  
+- Knock Off  
+- Glare  
+
+Grimer-Alola @ Eviolite  
+Ability: Poison Touch  
+Level: 5  
+EVs: 80 HP / 36 Atk / 196 Def / 196 SpD  
+Brave Nature  
+- Poison Jab  
+- Knock Off  
+- Pursuit  
+- Fire Blast  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 Def / 76 SpD / 236 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Blast  
+- Explosion  
+
+Snubbull @ Berry Juice  
+Ability: Intimidate  
+Level: 5  
+EVs: 196 Atk / 116 Def / 196 Spe  
+Adamant Nature  
+- Bulk Up  
+- Play Rough  
+- Fire Punch  
+- Thief  
+
+===[gen7 lc] 标准平衡2===
+
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 116 Atk / 156 Def / 236 SpD  
+Careful Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Bulk Up  
+
+Pawniard @ Choice Scarf  
+Ability: Defiant  
+Level: 5  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Iron Head  
+- Brick Break  
+- Pursuit  
+
+Snubbull @ Berry Juice  
+Ability: Intimidate  
+Level: 5  
+EVs: 36 HP / 36 Atk / 196 Def / 116 SpD / 116 Spe  
+Adamant Nature  
+- Thief  
+- Play Rough  
+- Fire Punch  
+- Thunder Wave  
+
+Diglett @ Focus Sash  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Sucker Punch  
+- Sludge Bomb  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 160 Def / 160 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Sludge Bomb  
+- Giga Drain  
+- Synthesis  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Rapid Spin  
+- Scald  
+- Ice Beam  
+- Recover  
