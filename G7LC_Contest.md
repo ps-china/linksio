@@ -65,7 +65,7 @@ PS【官服】GEN7 LC天梯分数|加分
 5 **GEN7 LC学习交流群 631393490 欢迎你前来学习交流**
 
 6 GEN7 LC 标准队 【选取了最为流行的平衡队2个，和模式队伍虫网、阿罗拉墙各一个】
-
+```
 ===[gen7 lc] 标准网===
 
 Scraggy @ Fightinium Z  
@@ -325,3 +325,4 @@ IVs: 0 Atk
 - Scald  
 - Ice Beam  
 - Recover  
+```
