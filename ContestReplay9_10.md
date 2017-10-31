@@ -71,6 +71,29 @@ http://replay.pokemonshowdown.com/china-gen4ou-19301
 
 {国服SM BH比赛战报集}
 
+【第一轮】
+嘟嘟 0:2 电锯门徒
+http://rubber-tapper-rosa-57037.bitballoon.com/
+http://dentist-zebra-21877.bitballoon.com/
+
+xy01 2:0 Daye
+http://replay.pokemonshowdown.com/china-gen7balancedhackmons-19844
+http://replay.pokemonshowdown.com/china-gen7balancedhackmons-19858
+
+notrollallowed 2:0 memelover 没有存
+
+晋文公 2:0 wlsdx
+http://replay.pokemonshowdown.com/china-gen7balancedhackmons-19835
+http://replay.pokemonshowdown.com/china-gen7balancedhackmons-19852
+
+圣光2:0 飞飞
+http://replay.pokemonshowdown.com/gen7balancedhackmons-639680120
+http://replay.pokemonshowdown.com/gen7balancedhackmons-639684345
+
+正弦0:2 Y梦
+http://replay.pokemonshowdown.com/gen7balancedhackmons-642319562
+http://replay.pokemonshowdown.com/gen7balancedhackmons-642323887
+
 【第二轮】
 电锯门徒 2:0 xy01
 http://gen7bh-disciplexy01-57710.bitballoon.com/
