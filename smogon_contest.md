@@ -1,6 +1,6 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼
 
-## 【Smogon比赛】过去世代 OU 比赛
+## 【Smogon比赛】过去世代 OU 比赛【海外党福利】
 
 http://www.smogon.com/forums/threads/roa-tour-ii-%E2%80%93-introduction-signups-will-be-deleted.3618464/
 美东时间 每周五晚6点 周六下午4点和 周日下午2点 （中国时间差12-13小时，都在凌晨）会举办前代G1 - G4 OU赛事，在Live Tournaments  
