@@ -8,14 +8,248 @@ http://www.smogon.com/forums/threads/the-button-clicker-tournament-signups.36207
 
 **比赛时，计时器默认开启，一旦有一方的计时器倒计时低于285秒，则直接判负**
 
-### 奖励
-总报名人数在64-128人时进入前8就有国服头像奖励，进入决赛者额外奖励人民币88元
+![不得让计时器低于285秒](https://i.imgur.com/DbM7XuP.jpg)
 
-总报名人数在32-64人时进入前4就有国服头像奖励，进入决赛者额外奖励人民币88元
+### 奖励 【目前报名总人数：90+】
 
-总报名人数在32以内时，进入前2有国服头像奖励，如果取得冠军，额外奖励人民币88元
+总报名人数达128人时进入前8就有国服头像奖励，进入决赛者额外奖励人民币88元
+
+总报名人数达256人时进入前16就有国服头像奖励，进入决赛者额外奖励人民币99元
 
 也会根据报名人数对进入3轮以后的选手给予国服Lobby和Old Gen房间的权限奖励
+
+附G5 OU节奏较快的队伍4个
+```
+=== [gen5ou] SW Sand Offense ===
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 168 HP / 116 Atk / 80 SpD / 144 Spe  
+Adamant Nature  
+- Crunch  
+- Earthquake  
+- Pursuit  
+- Stealth Rock  
+
+Latios @ Choice Specs  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Sleep Talk  
+- Surf  
+
+Breloom (M) @ Life Orb  
+Ability: Technician  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Bullet Seed  
+- Focus Punch  
+- Mach Punch  
+- Spore  
+
+Terrakion @ Choice Scarf  
+Ability: Justified  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Earthquake  
+- Stone Edge  
+- X-Scissor  
+
+Scizor (M) @ Flying Gem  
+Ability: Technician  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Acrobatics  
+- Bullet Punch  
+- Superpower  
+- Swords Dance  
+
+Alakazam (M) @ Focus Sash  
+Ability: Magic Guard  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Focus Blast  
+- Hidden Power [Ice]  
+- Psychic  
+- Shadow Ball  
+
+
+=== [gen5ou] SW Sand BO ===
+
+Hippowdon (M) @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 232 Def / 24 SpD / 4 Spe  
+Impish Nature  
+- Earthquake  
+- Slack Off  
+- Stealth Rock  
+- Whirlwind  
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Pursuit  
+- Stone Edge  
+- Superpower  
+
+Scizor (M) @ Flying Gem  
+Ability: Technician  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Acrobatics  
+- Bullet Punch  
+- Superpower  
+- Swords Dance  
+
+Garchomp (M) @ Choice Band  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dual Chop  
+- Earthquake  
+- Fire Fang  
+- Outrage  
+
+Dragonite (M) @ Life Orb  
+Ability: Multiscale  
+EVs: 52 HP / 252 SpA / 204 Spe  
+Rash Nature  
+- Draco Meteor  
+- Extreme Speed  
+- Fire Blast  
+- Superpower  
+
+Keldeo (Keldeo-Resolute) @ Choice Specs  
+Ability: Justified  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpD  
+- Hidden Power [Ghost]  
+- Hydro Pump  
+- Icy Wind  
+- Secret Sword  
+
+
+=== [gen5ou] Hyper Offense SOGEKING ===
+
+Azelf @ Focus Sash  
+Ability: Levitate  
+EVs: 64 Atk / 192 SpA / 252 Spe  
+Naive Nature  
+- Fire Blast  
+- Hidden Power [Ice]  
+- Stealth Rock  
+- Explosion  
+
+Garchomp (M) @ Dragon Gem  
+Ability: Rough Skin  
+EVs: 16 HP / 252 Atk / 240 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- Swords Dance  
+- Substitute  
+
+Breloom (F) @ Fighting Gem  
+Ability: Technician  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Focus Punch  
+- Bullet Seed  
+- Mach Punch  
+- Spore  
+
+Scizor (F) @ Flying Gem  
+Ability: Technician  
+EVs: 60 HP / 240 Atk / 208 Spe  
+Adamant Nature  
+- Acrobatics  
+- Bullet Punch  
+- Superpower  
+- Swords Dance  
+
+Dragonite (M) @ Lum Berry  
+Ability: Multiscale  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Adamant Nature  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+- Dragon Dance  
+
+Salamence (M) @ Choice Scarf  
+Ability: Moxie  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Dragon Claw  
+- Earthquake  
+- Fire Blast  
+
+
+=== [gen5ou] Dragon Spam ===
+
+Kyurem (Kyurem-Black) @ Choice Band  
+Ability: Teravolt  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Outrage  
+- Fusion Bolt  
+- Ice Beam  
+- Dragon Tail  
+
+Salamence (M) @ Choice Scarf  
+Ability: Moxie  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Dragon Claw  
+- Earthquake  
+- Fire Blast  
+- Outrage  
+
+Magnezone @ Leftovers  
+Ability: Magnet Pull  
+EVs: 76 HP / 252 SpA / 180 Spe  
+Modest Nature  
+- Substitute  
+- Thunderbolt  
+- Hidden Power [Fire]  
+- Toxic  
+
+Volcarona (Latios) @ Life Orb  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Dragon Pulse  
+- Surf  
+- Hidden Power [Fire]  
+- Roost  
+
+Volcarona (F) @ Leftovers  
+Ability: Flame Body  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Quiver Dance  
+- Fiery Dance  
+- Giga Drain  
+- Hidden Power [Ice]  
+
+Donphan (F) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Rapid Spin  
+- Ice Shard  
+```
 
 ## 【Smogon比赛】过去世代 OU 比赛【海外党福利】
 
