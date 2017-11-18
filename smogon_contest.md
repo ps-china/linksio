@@ -1,5 +1,17 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼
 
+## 【Smogon比赛】究极日月 OU比赛
+
+http://www.smogon.com/forums/threads/ultra-sun-and-moon-release-tournament.3621176/
+
+国服举办USUM尝鲜大赛比赛的同时，国外赛事也不能落下！ USUM OU官服BO3单淘汰赛开始报名，欲报从速，**周一中午11点就截止报名**。
+
+### 奖励 
+
+参赛人数为128人时进入前4就有国服头像奖励，若取得冠军则额外奖励RMB 88元。
+
+参赛人数为64人时进入前2就有国服头像奖励。
+
 ## 【Smogon比赛】赛跑OU比赛 11.14开放报名
 
 http://www.smogon.com/forums/threads/the-button-clicker-tournament-signups.3620751/
@@ -10,7 +22,7 @@ http://www.smogon.com/forums/threads/the-button-clicker-tournament-signups.36207
 
 ![不得让计时器低于285秒](https://i.imgur.com/DbM7XuP.jpg)
 
-### 奖励 【目前报名总人数：128】
+### 奖励 【目前参赛总人数：128】
 
 参赛人数为128人时进入前8就有国服头像奖励，进入决赛者额外奖励人民币88元
 
