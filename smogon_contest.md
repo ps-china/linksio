@@ -14,19 +14,23 @@ http://www.smogon.com/forums/threads/ultra-sun-and-moon-release-tournament.36211
 
 参赛人数为256人时进入前8就有国服头像奖励，若进入决赛则额外奖励RMB 88元。
 
+---
+
 ## 【Smogon比赛】究极日月 UB尝鲜比赛
 
 国服并不举办自己的UB比赛，但鼓励参加国外的UB比赛。报名链接：
 
 http://www.smogon.com/forums/threads/ultra-sun-and-ultra-moon-release-tournament-signups.3621226/
 
-USUM UB官服BO3单淘汰赛开始报名，在Smogon论坛注册账号、英文约战、一周一赛，需要欲报从速。
+USUM UB官服BO3单淘汰赛开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
 ### 奖励【目前报名人数：32人】
 
 参赛人数为64人时进入决赛就有国服头像奖励。
 
 参赛人数为128人时进入前4就有国服头像奖励。
+
+---
 
 ## 【Smogon比赛】赛跑OU比赛 11.14开放报名
 
