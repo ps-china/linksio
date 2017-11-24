@@ -1,6 +1,28 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼
 
-## 【Smogon比赛】究极日月 OU比赛（报名已经结束）
+## 【Smogon比赛】SM OU 拼单词比赛  11.24开放报名
+
+http://www.smogon.com/forums/threads/scrabblemons-tournament-signups.3621631/
+
+BO1 SM OU 比赛，SMOGON论坛报名，英文约战，必须保存回放否则比赛结果不作数。
+
+组队时，每一轮会指定一个英文单词，你所使用的精灵名字必须拼出这个单词，否则判负。
+
+### 例子：
+
+指定单词是TACKLE 那么 Togekiss, Armaldo, Cloyster, Kyurem-B, Lopunny-Mega, Eelektross 就是一个合理的队伍。Mega和阿罗拉形态按照原来的种类名字算字母，如Lopunny-Mega M女郎兔是算L而不是M
+
+### 奖励 【目前报名人数：64】
+
+总报名人数在64人时进入决赛就有国服头像奖励，进入前4有公屏voice
+
+总报名人数在96人时进入前3就有国服头像奖励，进入前6有公屏voice
+
+总报名人数在128人时进入前4就有国服头像奖励，进入前8有公屏voice
+
+**官服奖励，获得Scrabble room的特殊指令，并进入Scrabble room名人堂。**
+
+## 【Smogon比赛】究极日月 OU比赛【报名已经结束】
 
 http://www.smogon.com/forums/threads/ultra-sun-and-moon-release-tournament.3621176/
 
@@ -20,7 +42,7 @@ http://www.smogon.com/forums/threads/sun-and-moon-release-tournament-round-1.362
 
 ---
 
-## 【Smogon比赛】究极日月 UB尝鲜比赛
+## 【Smogon比赛】究极日月 UB尝鲜比赛 【报名已经结束】
 
 国服并不举办自己的UB比赛，但鼓励参加国外的UB比赛。报名链接：
 
@@ -28,15 +50,17 @@ http://www.smogon.com/forums/threads/ultra-sun-and-ultra-moon-release-tournament
 
 USUM UB官服BO3单淘汰赛开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
-### 奖励【目前报名人数：32人】
+### 奖励【报名人数：96人】
 
 参赛人数为64人时进入决赛就有国服头像奖励。
+
+参赛人数为96人时进入前3就有国服头像奖励。
 
 参赛人数为128人时进入前4就有国服头像奖励。
 
 ---
 
-## 【Smogon比赛】赛跑OU比赛 11.14开放报名
+## 【Smogon比赛】赛跑OU比赛 11.14开放报名 [报名已经结束]
 
 http://www.smogon.com/forums/threads/the-button-clicker-tournament-signups.3620751/
 
@@ -46,7 +70,7 @@ http://www.smogon.com/forums/threads/the-button-clicker-tournament-signups.36207
 
 ![不得让计时器低于285秒](https://i.imgur.com/DbM7XuP.jpg)
 
-### 奖励 【目前参赛总人数：128】
+### 奖励 【参赛总人数：128】
 
 参赛人数为128人时进入前8就有国服头像奖励，进入决赛者额外奖励人民币88元
 
@@ -298,39 +322,12 @@ http://www.smogon.com/forums/forums/live-tournaments.341/
 ### 奖励
 24场比赛中，任意一场进入决赛即可获得国服头像。**获得任意一场比赛的冠军将大概率锁定一个2018中国世界杯队员的席位。**
 
-
-## 【Smogon比赛】SM OU 拼单词比赛  11.24开放报名
-BO1 SM OU 比赛
-组队时，每一轮会指定一个英文单词，你所使用的精灵名字必须拼出这个单词，否则判负。
-
-### 奖励
-
-总报名人数在32-64人时进入前4就有国服头像奖励，进入前8有公屏voice
-
-总报名人数在32以内时，进入前2有国服头像奖励，进入前4有公屏voice
-
 ---
 ### Ubers Winter Seasonal 
 
 SMOGON 论坛报名链接：【12.16左右开始】
 
 SMOGON 季度性的UB比赛，**BO3 双淘汰赛制**，采用最新的USUM Ubers规则进行比赛。
-
-一般情况下，参赛人数在128人左右，**席位先到先得，报名从速。**
-
-### 奖励
-
-参赛人数为128人时进入前4就有国服头像奖励，进入决赛者额外奖励人民币88元.
-
-参赛人数为256人时进入前8就有国服头像奖励，进入四强者额外奖励人民币88元.
-
----
-
-### LC Winter Seasonal 
-
-SMOGON 论坛报名链接：【12.20左右开始】
-
-SMOGON 季度性的LC比赛，**BO3 双淘汰赛制**，采用最新的USUM LC 规则进行比赛。
 
 一般情况下，参赛人数在128人左右，**席位先到先得，报名从速。**
 
