@@ -1,6 +1,6 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼
 
-## 【Smogon比赛】SM OU 拼单词比赛  11.24开放报名
+## 【Smogon比赛】USUM OU 拼单词比赛  11.24开放报名
 
 http://www.smogon.com/forums/threads/scrabblemons-tournament-signups.3621631/
 
@@ -21,6 +21,22 @@ BO1 SM OU 比赛，SMOGON论坛报名，英文约战，必须保存回放否则�
 总报名人数在128人时进入前4就有国服头像奖励，进入前8有公屏voice
 
 **官服奖励，获得Scrabble room的特殊指令，并进入Scrabble room名人堂。**
+
+
+## 【Smogon比赛】USUM UU 尝鲜大赛
+
+http://www.smogon.com/forums/threads/usum-uu-launch-tournament-signups-underway.3621722/
+
+USUM UU 官服BO3单淘汰赛开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+
+### 奖励【目前报名人数：64人】
+
+参赛人数为64人时进入决赛就有国服头像奖励。
+
+参赛人数为96人时进入前3就有国服头像奖励。
+
+参赛人数为128人时进入前4就有国服头像奖励。
+
 
 ## 【Smogon比赛】究极日月 OU比赛【报名已经结束】
 
