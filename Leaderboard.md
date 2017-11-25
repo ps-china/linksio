@@ -25,6 +25,35 @@
 17 | USUMAHHwhite scars | 0 | 0 | 0 | 0 | 1 | 0
 18 | xcellerate | 0 | 0 | 0 | 0 | 1 | 0
 
+11.25 周五比赛结果
+ Nº | Name | Ranking | W | F | SF | Tours Played | Battles won
+----|------|---------|---|---|----|-------------|-------------
+1 | USUMAHH | 15 | 1 | 0 | 0 | 1 | 5
+2 | flowerkissusumahh | 9 | 0 | 1 | 0 | 1 | 3
+3 | xy01 | 6 | 0 | 0 | 1 | 1 | 3
+4 | xcellerate | 4 | 0 | 0 | 1 | 1 | 2
+5 | lzaaaaa | 4 | 0 | 0 | 0 | 1 | 2
+6 | Lancelot usumahh | 4 | 0 | 0 | 0 | 1 | 2
+7 | woyaodaou | 2 | 0 | 0 | 0 | 1 | 1
+8 | ss is damn long | 2 | 0 | 0 | 0 | 1 | 1
+9 | sbaaa | 2 | 0 | 0 | 0 | 1 | 1
+10 | quickbantoxapex | 2 | 0 | 0 | 0 | 1 | 1
+11 | xxld6 | 2 | 0 | 0 | 0 | 1 | 1
+12 | USUMahh FadedV | 2 | 0 | 0 | 0 | 1 | 1
+13 | M•Diana | 0 | 0 | 0 | 0 | 1 | 0
+14 | USUMAhh popoling | 0 | 0 | 0 | 0 | 1 | 0
+15 | mexian.lapio | 0 | 0 | 0 | 0 | 1 | 0
+16 | Guest 643 | 0 | 0 | 0 | 0 | 1 | 0
+17 | usumahh666 | 0 | 0 | 0 | 0 | 1 | 0
+18 | usumahhh | 0 | 0 | 0 | 0 | 1 | 0
+19 | jerket | 0 | 0 | 0 | 0 | 1 | 0
+20 | AVduiqienbn | 0 | 0 | 0 | 0 | 1 | 0
+21 | usumagaoxiao | 0 | 0 | 0 | 0 | 1 | 0
+22 | chb654200174 | 0 | 0 | 0 | 0 | 1 | 0
+23 | fddsb | 0 | 0 | 0 | 0 | 1 | 0
+24 | bkshtjj | 0 | 0 | 0 | 0 | 1 | 0
+
+
 
 ## 天梯积分赛排行榜
 
