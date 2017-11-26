@@ -1,6 +1,6 @@
 ## 定时积分赛排行榜
 
-### 最后更新时间：11.24
+### 最后更新时间：11.27
 
 11.24 周五比赛结果
 
@@ -87,15 +87,62 @@
 
 ### 第一轮关键词: USUMAHH  (不分大小写)
 
+
+Rank | Elo | ID | Score
+-- | -- | -- | --
+1 | 1421.884 | usumahhhooh | 23
+2 | 1382.274 | uuuusumahh | 18
+3 | 1342.948 | usumahhDSB | 14
+4 | 1336.055 | usumahhh | 12
+5 | 1331.981 | jerketUSUMAHH | 10
+6 | 1328.57 | Gawaineusumahh | 9
+7 | 1306.948 | usumahhUnown | 8
+8 | 1297.454 | USUMAHH buyi | 7
+
+### 第二轮关键词: USUMYIU
+
 ### 第二轮关键词: 待定中
 
-### 最后更新时间：11.21
+### 最后更新时间：11.27
+
 
  Nº | Name | Ranking(R1,R2,R3) | Points
 ----|------|---------|--------
 
 ## 总排行榜
 
- Nº | Name | Points
-----|------|-------
+ID | Week1 tour | Week 1 ladder | Week1总分
+-- | -- | -- | --
+usumahhDSB = fddsb | 15 | 14 | 29
+uifu | 13 | 12 | 25
+usumahhhooh |   | 23 | 23
+Aeca | 2 | 18 | 20
+USUMAHH = DYWY | 15 |   | 15
+Lancelot usumahh | 4 | 9 | 13
+jerket | 2 | 10 | 12
+USUMAHH buyi | 4 | 7 | 11
+AshbringerUSUMAHH | 9 |   | 9
+flowerkissusumahh | 9 |   | 9
+USUMAhh popoling | 9 |   | 9
+usumahhUnown | 8 |   | 8
+LYNG USUMAHH | 6 |   | 6
+xy01 | 6 |   | 6
+EroyalBoy | 4 |   | 4
+gaojiguai | 4 |   | 4
+lzaaaaa | 4 |   | 4
+usumahh666 | 4 |   | 4
+xcellerate | 4 |   | 4
+CelebiloveJirachi | 2 |   | 2
+chb654200174 | 2 |   | 2
+Leply | 2 |   | 2
+Paipai Otosaka | 2 |   | 2
+sbaaa | 2 |   | 2
+ss is damn long | 2 |   | 2
+USUMahh FadedV | 2 |   | 2
+usumahhh | 2 |   | 2
+USUMAHHWGAY | 2 |   | 2
+woyaodaou | 2 |   | 2
+xxld6 | 2 |   | 2
+
+
 
