@@ -4,7 +4,7 @@
 
 11.24 周五比赛结果
 
- Nº | Name | Ranking | W | F | SF | Tours Played | Battles won
+ Nº | Name | Points | W | F | SF | Tours Played | Battles won
 ----|------|---------|---|---|----|-------------|-------------
 1 | uifu | 13 | 1 | 0 | 0 | 1 | 4
 2 | AshbringerUSUMAHH | 9 | 0 | 1 | 0 | 1 | 3
@@ -27,7 +27,7 @@
 
 11.25 周五比赛结果
 
- Nº | Name | Ranking | W | F | SF | Tours Played | Battles won
+ Nº | Name | Points | W | F | SF | Tours Played | Battles won
 ----|------|---------|---|---|----|-------------|-------------
 1 | USUMAHH | 15 | 1 | 0 | 0 | 1 | 5
 2 | flowerkissusumahh | 9 | 0 | 1 | 0 | 1 | 3
@@ -54,7 +54,34 @@
 23 | fddsb | 0 | 0 | 0 | 0 | 1 | 0
 24 | bkshtjj | 0 | 0 | 0 | 0 | 1 | 0
 
+11.26 周六比赛结果
 
+ Nº | Name | Points | W | F | SF | Tours Played | Battles won
+----|------|---------|---|---|----|-------------|-------------
+1 | usumahhDSB | 15 | 1 | 0 | 0 | 1 | 5
+2 | USUMAhh popoling | 9 | 0 | 1 | 0 | 1 | 3
+3 | LYNG USUMAHH | 6 | 0 | 0 | 1 | 1 | 3
+4 | EroyalBoy | 4 | 0 | 0 | 1 | 1 | 2
+5 | usumahh666 | 4 | 0 | 0 | 0 | 1 | 2
+6 | gaojiguai | 4 | 0 | 0 | 0 | 1 | 2
+7 | usumahhh | 2 | 0 | 0 | 0 | 1 | 1
+8 | Paipai Otosaka | 2 | 0 | 0 | 0 | 1 | 1
+9 | CelebiloveJirachi | 2 | 0 | 0 | 0 | 1 | 1
+10 | Lancelot usumahh | 2 | 0 | 0 | 0 | 1 | 1
+11 | Xcellerate | 2 | 0 | 0 | 0 | 1 | 1
+12 | chb654200174 | 2 | 0 | 0 | 0 | 1 | 1
+13 | sicuness | 0 | 0 | 0 | 0 | 1 | 0
+14 | USUMAHH buyi | 0 | 0 | 0 | 0 | 1 | 0
+15 | xujing691691 | 0 | 0 | 0 | 0 | 1 | 0
+16 | Chaos23333 | 0 | 0 | 0 | 0 | 1 | 0
+17 | usumahhtini | 0 | 0 | 0 | 0 | 1 | 0
+18 | quickbantoxapex | 0 | 0 | 0 | 0 | 1 | 0
+19 | Xxld6 | 0 | 0 | 0 | 0 | 1 | 0
+20 | Alice USUMAHH | 0 | 0 | 0 | 0 | 1 | 0
+21 | USUMahh FadedV | 0 | 0 | 0 | 0 | 1 | 0
+22 | xy01 | 0 | 0 | 0 | 0 | 1 | 0
+23 | usumahhUnown | 0 | 0 | 0 | 0 | 1 | 0
+24 | woyaodaou | 0 | 0 | 0 | 0 | 1 | 0
 
 ## 天梯积分赛排行榜
 
