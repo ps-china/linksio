@@ -4,7 +4,7 @@
 
 http://www.smogon.com/forums/threads/scrabblemons-tournament-signups.3621631/
 
-BO1 SM OU 比赛，SMOGON论坛报名，英文约战，必须保存回放否则比赛结果不作数。
+BO1 SM OU 单淘汰比赛，SMOGON论坛报名，英文约战，必须保存回放否则比赛结果不作数。
 
 组队时，每一轮会指定一个英文单词，你所使用的精灵名字必须拼出这个单词，否则判负。
 
@@ -27,7 +27,7 @@ BO1 SM OU 比赛，SMOGON论坛报名，英文约战，必须保存回放否则�
 
 http://www.smogon.com/forums/threads/usum-uu-launch-tournament-signups-underway.3621722/
 
-USUM AG 官服BO3 **双淘汰** 赛开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+USUM UU 官服BO3单淘汰赛开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
 ### 奖励【目前报名人数：64人】
 
@@ -40,6 +40,8 @@ USUM AG 官服BO3 **双淘汰** 赛开始报名，在Smogon论坛注册账号、
 ## 【Smogon比赛】究极日月 AG尝鲜季度赛
 
 http://www.smogon.com/forums/threads/anything-goes-winter-seasonal-signups.3621769/
+
+USUM AG 官服BO3 **双淘汰** 赛开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
 ### 奖励 【目前报名人数：64】
 
