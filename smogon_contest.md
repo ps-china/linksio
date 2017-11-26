@@ -27,7 +27,7 @@ BO1 SM OU 比赛，SMOGON论坛报名，英文约战，必须保存回放否则�
 
 http://www.smogon.com/forums/threads/usum-uu-launch-tournament-signups-underway.3621722/
 
-USUM UU 官服BO3单淘汰赛开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+USUM AG 官服BO3 **双淘汰** 赛开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
 ### 奖励【目前报名人数：64人】
 
@@ -36,6 +36,18 @@ USUM UU 官服BO3单淘汰赛开始报名，在Smogon论坛注册账号、英文
 参赛人数为96人时进入前3就有国服头像奖励。
 
 参赛人数为128人时进入前4就有国服头像奖励。
+
+## 【Smogon比赛】究极日月 AG尝鲜季度赛
+
+http://www.smogon.com/forums/threads/anything-goes-winter-seasonal-signups.3621769/
+
+### 奖励 【目前报名人数：64】
+
+总报名人数在64人时进入决赛就有国服头像奖励，进入前4有公屏voice
+
+总报名人数在96人时进入前3就有国服头像奖励，进入前6有公屏voice
+
+总报名人数在128人时进入前4就有国服头像奖励，进入前8有公屏voice
 
 
 ## 【Smogon比赛】究极日月 OU比赛【报名已经结束】
