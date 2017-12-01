@@ -1,6 +1,6 @@
 ## 定时积分赛排行榜
 
-### 最后更新时间：11.27
+### 最后更新时间：12.1
 
 11.24 周五比赛结果
 
@@ -83,6 +83,35 @@
 23 | usumahhUnown | 0 | 0 | 0 | 0 | 1 | 0
 24 | woyaodaou | 0 | 0 | 0 | 0 | 1 | 0
 
+12.1 周五比赛结果
+
+ Nº | Name | Ranking | W | F | SF | Tours Played | Battles won
+----|------|---------|---|---|----|-------------|-------------
+1 | USUMYiu popoling | 13 | 1 | 0 | 0 | 1 | 4
+2 | Giovanni Strike | 11 | 0 | 1 | 0 | 1 | 4
+3 | asdfpaidf | 6 | 0 | 0 | 1 | 1 | 3
+4 | xujing691691 | 4 | 0 | 0 | 1 | 1 | 2
+5 | LzUSUMyiu | 4 | 0 | 0 | 0 | 1 | 2
+6 | usumagaoxiao | 4 | 0 | 0 | 0 | 1 | 2
+7 | usumyiu buyi | 2 | 0 | 0 | 0 | 1 | 1
+8 | USUMyiuhooh | 2 | 0 | 0 | 0 | 1 | 1
+9 | chb654200174 | 2 | 0 | 0 | 0 | 1 | 1
+10 | Z-Ton | 2 | 0 | 0 | 0 | 1 | 1
+11 | fyfyk2 | 2 | 0 | 0 | 0 | 1 | 1
+12 | USUMYIU | 0 | 0 | 0 | 0 | 1 | 0
+13 | Archeer | 0 | 0 | 0 | 0 | 1 | 0
+14 | xcellerate | 0 | 0 | 0 | 0 | 1 | 0
+15 | EroyalBoy | 0 | 0 | 0 | 0 | 1 | 0
+16 | Ekaterin | 0 | 0 | 0 | 0 | 1 | 0
+17 | dalao qingnue | 0 | 0 | 0 | 0 | 1 | 0
+18 | Assassin-Hasan | 0 | 0 | 0 | 0 | 1 | 0
+19 | fddsb | 0 | 0 | 0 | 0 | 1 | 0
+20 | USUMYiu FadedV | 0 | 0 | 0 | 0 | 1 | 0
+21 | quickbantoxapex | 0 | 0 | 0 | 0 | 1 | 0
+22 | xy01 | 0 | 0 | 0 | 0 | 1 | 0
+23 | uifu | 0 | 0 | 0 | 0 | 1 | 0
+
+
 ## 天梯积分赛排行榜
 
 ### 第一轮关键词: USUMAHH  (不分大小写)
@@ -143,6 +172,3 @@ usumahhh | 2 |   | 2
 USUMAHHWGAY | 2 |   | 2
 woyaodaou | 2 |   | 2
 xxld6 | 2 |   | 2
-
-
-
