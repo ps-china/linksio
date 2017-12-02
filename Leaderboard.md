@@ -1,6 +1,6 @@
 ## 定时积分赛排行榜
 
-### 最后更新时间：12.1
+### 最后更新时间：12.2
 
 11.24 周五比赛结果
 
@@ -85,7 +85,7 @@
 
 12.1 周五比赛结果
 
- Nº | Name | Ranking | W | F | SF | Tours Played | Battles won
+ Nº | Name | Points | W | F | SF | Tours Played | Battles won
 ----|------|---------|---|---|----|-------------|-------------
 1 | USUMYiu popoling | 13 | 1 | 0 | 0 | 1 | 4
 2 | Giovanni Strike | 11 | 0 | 1 | 0 | 1 | 4
@@ -110,6 +110,17 @@
 21 | quickbantoxapex | 0 | 0 | 0 | 0 | 1 | 0
 22 | xy01 | 0 | 0 | 0 | 0 | 1 | 0
 23 | uifu | 0 | 0 | 0 | 0 | 1 | 0
+
+12.2 周六比赛
+
+Nº | Name | Points
+-- | -- | --
+1 | LzUSUMyiu | 13
+2 | uifu | 9
+3 | xujing691691 | 4
+4 | yaohui sama | 2
+5 | abcdefog | 2
+6 | Pusheen Birdway | 2
 
 
 ## 天梯积分赛排行榜
