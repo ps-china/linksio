@@ -2,7 +2,7 @@
 
 # 已经拥有国服头像者再次满足获得头像要求，则取得名字前的宝可梦，具体实施办法待定。
 
-## 【Smogon比赛】ORAS Uber比赛 12.4 开放报名
+## 【Smogon比赛】ORAS Ubers 比赛 12.4 开放报名
 
 报名链接  http://www.smogon.com/forums/threads/oras-ubers-cup-signups.3622369/
 
