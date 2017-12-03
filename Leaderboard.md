@@ -1,6 +1,6 @@
 ## 定时积分赛排行榜
 
-### 最后更新时间：12.2
+### 最后更新时间：12.3
 
 11.24 周五比赛结果
 
@@ -122,6 +122,21 @@ Nº | Name | Points
 5 | abcdefog | 2
 6 | Pusheen Birdway | 2
 
+12.3 周日比赛
+
+ Nº | Name | Points | W | F | SF | Tours Played | Battles won
+----|------|---------|---|---|----|-------------|-------------
+1 | quickbantoxapex | 11 | 1 | 0 | 0 | 1 | 3
+2 | YAOHUI SAMA | 7 | 0 | 1 | 0 | 1 | 2
+3 | LzUSUMyiu | 4 | 0 | 0 | 1 | 1 | 2
+4 | usumyiu buyi | 2 | 0 | 0 | 1 | 1 | 1
+5 | uifu | 2 | 0 | 0 | 0 | 1 | 1
+6 | USUMYiu FadedV | 0 | 0 | 0 | 0 | 1 | 0
+7 | ArcheerUSUMAHH | 0 | 0 | 0 | 0 | 1 | 0
+8 | AnyaUSUMYIU | 0 | 0 | 0 | 0 | 1 | 0
+9 | Chaos23333 | 0 | 0 | 0 | 0 | 1 | 0
+10 | fyfyk17 | 0 | 0 | 0 | 0 | 1 | 0
+
 
 ## 天梯积分赛排行榜
 
@@ -141,45 +156,60 @@ Rank | Elo | ID | Score
 
 ### 第二轮关键词: USUMYIU
 
-### 第三轮关键词: 待定中
 
-### 最后更新时间：11.27
+Rank | ID | ELO | Score
+-- | -- | -- | --
+1 | usumyius | 1393.52 | 23
+2 | Lancelot usumyiu | 1391.474 | 18
+3 | yanzuUSUMYIUYIUYIU | 1339.732 | 14
+4 | usumyiuu | 1337.621 | 12
+5 | USUMyiuhooh | 1333.66 | 10
+6 | USUMYIU | 1307.334 | 9
+7 | AnyaUSUMYIU | 1303.685 | 8
+8 | LzUSUMyiu | 1291.782 | 7
 
+### 第三轮关键词: USUMPM2
 
- Nº | Name | Ranking(R1,R2,R3) | Points
-----|------|---------|--------
+### 最后更新时间：12.3
 
 ## 总排行榜
 
-ID | Week1 tour | Week 1 ladder | Week1总分
--- | -- | -- | --
-usumahhDSB = fddsb | 15 | 14 | 29
-uifu | 13 | 12 | 25
-usumahhhooh |   | 23 | 23
-Aeca | 2 | 18 | 20
-USUMAHH = DYWY | 15 |   | 15
-Lancelot usumahh | 4 | 9 | 13
-jerket | 2 | 10 | 12
-USUMAHH buyi | 4 | 7 | 11
-AshbringerUSUMAHH | 9 |   | 9
-flowerkissusumahh | 9 |   | 9
-USUMAhh popoling | 9 |   | 9
-usumahhUnown | 8 |   | 8
-LYNG USUMAHH | 6 |   | 6
-xy01 | 6 |   | 6
-EroyalBoy | 4 |   | 4
-gaojiguai | 4 |   | 4
-lzaaaaa | 4 |   | 4
-usumahh666 | 4 |   | 4
-xcellerate | 4 |   | 4
-CelebiloveJirachi | 2 |   | 2
-chb654200174 | 2 |   | 2
-Leply | 2 |   | 2
-Paipai Otosaka | 2 |   | 2
-sbaaa | 2 |   | 2
-ss is damn long | 2 |   | 2
-USUMahh FadedV | 2 |   | 2
-usumahhh | 2 |   | 2
-USUMAHHWGAY | 2 |   | 2
-woyaodaou | 2 |   | 2
-xxld6 | 2 |   | 2
+Rank | ID | Week1总分 | Week2 tour | Week2 ladder | Week1+Week2
+-- | -- | -- | -- | -- | --
+1 | Aeca | 20 | 11 | 23 | 54
+2 | usumahhDSB = fddsb | 29 | 7 | 14 | 50
+3 | uifu | 25 | 9 | 12 | 46
+4 | usumahhhooh | 23 | 2 | 10 | 35
+5 | Lancelot usumahh | 13 | 2 | 18 | 33
+6 | lzaaaaa | 4 | 13 | 7 | 24
+7 | USUMAhh popoling | 9 | 13 |   | 22
+8 | usumahhUnown | 8 | 11 |   | 19
+9 | USUMAHH = DYWY | 15 | 2 |   | 17
+10 | USUMAHH buyi | 11 | 2 |   | 13
+11 | jerket | 12 |   |   | 12
+12 | AshbringerUSUMAHH | 9 |   |   | 9
+13 | flowerkissusumahh | 9 |   |   | 9
+14 | USUMYIU |   |   | 9 | 9
+15 | AnyaUSUMYIU |   |   | 8 | 8
+16 | LYNG USUMAHH | 6 |   |   | 6
+17 | xy01 | 6 |   |   | 6
+18 | asdfpaidf |   | 6 |   | 6
+19 | EroyalBoy | 4 |   |   | 4
+20 | gaojiguai | 4 |   |   | 4
+21 | usumahh666 | 4 |   |   | 4
+22 | xcellerate | 4 |   |   | 4
+23 | chb654200174 | 2 | 2 |   | 4
+24 | xujing691691 |   | 4 |   | 4
+25 | usumagaoxiao |   | 4 |   | 4
+26 | CelebiloveJirachi | 2 |   |   | 2
+27 | Leply | 2 |   |   | 2
+28 | Paipai Otosaka | 2 |   |   | 2
+29 | sbaaa | 2 |   |   | 2
+30 | ss is damn long | 2 |   |   | 2
+31 | USUMahh FadedV | 2 |   |   | 2
+32 | usumahhh | 2 |   |   | 2
+33 | USUMAHHWGAY | 2 |   |   | 2
+34 | woyaodaou | 2 |   |   | 2
+35 | xxld6 | 2 |   |   | 2
+36 | Z-Ton |   | 2 |   | 2
+37 | abcdefog |   | 2 |   | 2
