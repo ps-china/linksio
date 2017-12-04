@@ -122,9 +122,9 @@ http://www.smogon.com/forums/threads/the-button-clicker-tournament-signups.36207
 
 一个 SM OU / ORAS OU / BW OU BO3的比赛，单淘汰赛制的快速比赛。(即5-7代的OU三局两胜赛。)
 
-**比赛时，计时器默认开启，一旦有一方的计时器倒计时低于285秒，则直接判负**
+**比赛时，计时器默认开启，一旦有一方的计时器倒计时*显示*285秒，则直接判负**
 
-![不得让计时器低于285秒](https://i.imgur.com/DbM7XuP.jpg)
+即计时器不应该有任何除了“开启计时器“之外的提示。
 
 ### 奖励 【参赛总人数：128】
 
