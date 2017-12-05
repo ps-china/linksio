@@ -1,4 +1,4 @@
-# 【现金奖励、国服头像、专属宠物】USM NU 大奖赛
+# 【现金奖励、国服头像、专属宠物】USM NU 训练赛
 
 # NU房间定时赛部分
 
@@ -39,6 +39,8 @@ Friday: 5 pm
 在每个月的房间比赛积分榜上取得前12名则获得额外人民币88元奖励，此奖励长期有效。
 
 
+------
+
 # 天梯部分
 
 在 PS 官服的NU天梯内，取得 1500 ELO 且 GXE 83%以上，则获得国服头像。**登顶天梯者可以获得专属宠物。**
@@ -51,7 +53,7 @@ Friday: 5 pm
 
 [**NU Discord （NU 官方英文discord讨论群)**](https://discordapp.com/invite/QVXZ98U)
 
-[**NU 速度线 与 宝可梦功能分类列表 **](http://www.smogon.com/forums/threads/nu-speed-tiers-role-compendium.3606163/)
+[**NU 速度线 与 宝可梦功能分类列表**](http://www.smogon.com/forums/threads/nu-speed-tiers-role-compendium.3606163/)
 
 ## 抄队资源
 
