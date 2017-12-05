@@ -63,4 +63,14 @@ Friday: 5 pm
 
 [**NU 半成品队伍分享**](http://www.smogon.com/forums/threads/nu-bazaar-post-your-teams-here.3606112/page-3)
 
+## 规则
+
+禁止日照特性、禁止技能极光幕
+禁止来自RU / BL3 或以上的精灵
+其他规则与 OU/UU/RU 相同
+
+组队时，可以通过输入NU Tiers的方式来查看可用精灵
+![NU1](https://i.imgur.com/VebDnH0.png)
+
+![NU2](https://i.imgur.com/Q8vwCmd.png)
 
