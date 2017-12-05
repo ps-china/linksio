@@ -49,16 +49,16 @@ Friday: 5 pm
 
 [**NU VR （NU 各宝可梦评分)**](http://www.smogon.com/forums/threads/usum-nu-viability-rankings.3622107/)
 
-[**NU Discord （NU 官方英文discord讨论群)**]](https://discordapp.com/invite/QVXZ98U)
+[**NU Discord （NU 官方英文discord讨论群)**](https://discordapp.com/invite/QVXZ98U)
 
 [**NU 速度线 与 宝可梦功能分类列表 **](http://www.smogon.com/forums/threads/nu-speed-tiers-role-compendium.3606163/)
 
 ## 抄队资源
 
-[**NU 官方标准队](http://www.smogon.com/forums/threads/nu-sample-teams.3612396/)
+[**NU 官方标准队**](http://www.smogon.com/forums/threads/nu-sample-teams.3612396/)
 
-[**NU 组队大赛获奖队伍](http://www.smogon.com/forums/threads/usum-nu-teambuilding-competition-round-5-zangoose-submission-stage.3615491/#post-7516030)
+[**NU 组队大赛获奖队伍**](http://www.smogon.com/forums/threads/usum-nu-teambuilding-competition-round-5-zangoose-submission-stage.3615491/#post-7516030)
 
-[**NU 半成品队伍分享](http://www.smogon.com/forums/threads/nu-bazaar-post-your-teams-here.3606112/page-3)
+[**NU 半成品队伍分享**](http://www.smogon.com/forums/threads/nu-bazaar-post-your-teams-here.3606112/page-3)
 
 
