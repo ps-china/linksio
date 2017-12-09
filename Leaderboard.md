@@ -154,6 +154,25 @@ Nº | Name | Points
 10 | dkcaca | 0 | 0 | 0 | 0 | 1 | 0
 11 | fyfyk51 | 0 | 0 | 0 | 0 | 1 | 0
 
+12.9 周六比赛
+
+ Nº | Name | Ranking | W | F | SF | Tours Played | Battles won
+----|------|---------|---|---|----|-------------|-------------
+1 | popoling | 13 | 1 | 0 | 0 | 1 | 4
+2 | dr.dmaria | 9 | 0 | 1 | 0 | 1 | 3
+3 | f!vk sEy | 4 | 0 | 0 | 1 | 1 | 2
+4 | uusumpm2 | 2 | 0 | 0 | 1 | 1 | 1
+5 | Gayhua | 2 | 0 | 0 | 0 | 1 | 1
+6 | USUMPM2 | 2 | 0 | 0 | 0 | 1 | 1
+7 | fyfyk24 | 2 | 0 | 0 | 0 | 1 | 1
+8 | muzimujin | 0 | 0 | 0 | 0 | 1 | 0
+9 | wotamashebao | 0 | 0 | 0 | 0 | 1 | 0
+10 | Sicune | 0 | 0 | 0 | 0 | 1 | 0
+11 | USUMPM2ez | 0 | 0 | 0 | 0 | 1 | 0
+12 | xcellerate | 0 | 0 | 0 | 0 | 1 | 0
+13 | xxld6 | 0 | 0 | 0 | 0 | 1 | 0
+14 | flowerkissUSUMPM2 | 0 | 0 | 0 | 0 | 1 | 0
+
 ## 天梯积分赛排行榜
 
 ### 第一轮关键词: USUMAHH  (不分大小写)
