@@ -8,7 +8,7 @@
 
 单淘汰 BO3 ORAS UB 比赛
 
-### 奖励 【目前报名人数：】
+### 奖励 【目前报名人数：96】
 
 总报名人数在64人时进入决赛就有国服头像奖励，进入前4有公屏voice
 
@@ -16,7 +16,7 @@
 
 总报名人数在128人时进入前4就有国服头像奖励，进入前8有公屏voice
 
-## 【Smogon比赛】 班级拉斯杯团赛 12.8 开放报名
+## 【Smogon比赛】 班级拉斯杯团赛 【报名已经结束】
 
 团赛形式，三局两胜。三个队员分别负责 G3 G4 G5的OU。
 
@@ -26,7 +26,7 @@
 
 总报参赛队伍在64支时进入4强就**全体**有国服头像奖励，进入前8有公屏voice，并奖励三人中战绩最好的队员头像
 
-## 【Smogon比赛】USUM OU 拼单词比赛  11.24开放报名
+## 【Smogon比赛】USUM OU 拼单词比赛 【报名已经结束】
 
 http://www.smogon.com/forums/threads/scrabblemons-tournament-signups.3621631/
 
@@ -49,7 +49,7 @@ BO1 SM OU 单淘汰比赛，SMOGON论坛报名，英文约战，必须保存回�
 **官服奖励，获得Scrabble room的特殊指令，并进入Scrabble room名人堂。**
 
 
-## 【Smogon比赛】USUM UU 尝鲜大赛
+## 【Smogon比赛】USUM UU 尝鲜大赛 【报名已经结束】
 
 http://www.smogon.com/forums/threads/usum-uu-launch-tournament-signups-underway.3621722/
 
@@ -63,7 +63,7 @@ USUM UU 官服BO3单淘汰赛开始报名，在Smogon论坛注册账号、英文
 
 参赛人数为128人时进入前4就有国服头像奖励。
 
-## 【Smogon比赛】究极日月 AG尝鲜季度赛
+## 【Smogon比赛】究极日月 AG尝鲜季度赛 【报名已经结束】
 
 http://www.smogon.com/forums/threads/anything-goes-winter-seasonal-signups.3621769/
 
