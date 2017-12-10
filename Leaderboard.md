@@ -173,6 +173,20 @@ Nº | Name | Points
 13 | xxld6 | 0 | 0 | 0 | 0 | 1 | 0
 14 | flowerkissUSUMPM2 | 0 | 0 | 0 | 0 | 1 | 0
 
+12.10 周日比赛
+
+ Nº | Name | Ranking | W | F | SF | Tours Played | Battles won
+----|------|---------|---|---|----|-------------|-------------
+1 | LzUSUMPM2 | 11 | 1 | 0 | 0 | 1 | 3
+2 | uuusumpm2 | 9 | 0 | 1 | 0 | 1 | 3
+3 | xcellerate | 2 | 0 | 0 | 1 | 1 | 1
+4 | AnyaUSUMPM2 | 2 | 0 | 0 | 1 | 1 | 1
+5 | yaohui sama | 0 | 0 | 0 | 0 | 1 | 0
+6 | xxld6 | 0 | 0 | 0 | 0 | 1 | 0
+7 | USUMPM2 | 0 | 0 | 0 | 0 | 1 | 0
+8 | Poosieslayer | 0 | 0 | 0 | 0 | 1 | 0
+9 | QY_CS | 0 | 0 | 0 | 0 | 1 | 0
+
 ## 天梯积分赛排行榜
 
 ### 第一轮关键词: USUMAHH  (不分大小写)
@@ -205,46 +219,29 @@ Rank | ID | ELO | Score
 
 ### 第三轮关键词: USUMPM2
 
-### 最后更新时间：12.3
+Rank | Elo | ID | W | L | score
+-- | -- | -- | -- | -- | --
+1 | 1405.032 | usumpm2u | 32 | 6 | 23
+2 | 1355.988 | USUMPM2EZ | 28 | 12 | 18
+3 | 1340.235 | lol at usumpm2 | 16 | 6 | 14
+4 | 1306.418 | USUMPM2 | 11 | 0 | 12
+5 | 1292.533 | uusumpm2u | 25 | 17 | 10
+6 | 1283.804 | uusumpm2 | 34 | 16 | 9
+7 | 1269.49 | LzUSUMPM2 | 13 | 6 | 8
+8 | 1232.355 | AnyaUSUMPM2 | 19 | 12 | 7
+
+### 最后更新时间：12.10
 
 ## 总排行榜
 
-Rank | ID | Week1总分 | Week2 tour | Week2 ladder | Week1+Week2
+Rank | ID | Week1+Week2 | Week3 tour | Week3 ladder | Total
 -- | -- | -- | -- | -- | --
-1 | Aeca | 20 | 11 | 23 | 54
-2 | usumahhDSB = fddsb | 29 | 7 | 14 | 50
-3 | uifu | 25 | 9 | 12 | 46
-4 | usumahhhooh | 23 | 2 | 10 | 35
-5 | Lancelot usumahh | 13 | 2 | 18 | 33
-6 | lzaaaaa | 4 | 13 | 7 | 24
-7 | USUMAhh popoling | 9 | 13 |   | 22
-8 | usumahhUnown | 8 | 11 |   | 19
-9 | USUMAHH = DYWY | 15 | 2 |   | 17
-10 | USUMAHH buyi | 11 | 2 |   | 13
-11 | jerket | 12 |   |   | 12
-12 | AshbringerUSUMAHH | 9 |   |   | 9
-13 | flowerkissusumahh | 9 |   |   | 9
-14 | USUMYIU |   |   | 9 | 9
-15 | AnyaUSUMYIU |   |   | 8 | 8
-16 | LYNG USUMAHH | 6 |   |   | 6
-17 | xy01 | 6 |   |   | 6
-18 | asdfpaidf |   | 6 |   | 6
-19 | EroyalBoy | 4 |   |   | 4
-20 | gaojiguai | 4 |   |   | 4
-21 | usumahh666 | 4 |   |   | 4
-22 | xcellerate | 4 |   |   | 4
-23 | chb654200174 | 2 | 2 |   | 4
-24 | xujing691691 |   | 4 |   | 4
-25 | usumagaoxiao |   | 4 |   | 4
-26 | CelebiloveJirachi | 2 |   |   | 2
-27 | Leply | 2 |   |   | 2
-28 | Paipai Otosaka | 2 |   |   | 2
-29 | sbaaa | 2 |   |   | 2
-30 | ss is damn long | 2 |   |   | 2
-31 | USUMahh FadedV | 2 |   |   | 2
-32 | usumahhh | 2 |   |   | 2
-33 | USUMAHHWGAY | 2 |   |   | 2
-34 | woyaodaou | 2 |   |   | 2
-35 | xxld6 | 2 |   |   | 2
-36 | Z-Ton |   | 2 |   | 2
-37 | abcdefog |   | 2 |   | 2
+1 | Aeca | 54 | 4 | 14 | 72
+2 | usumahhDSB = fddsb | 50 | 2 | 18 | 70
+3 | uifu | 46 | 9 | 10 | 65
+4 | Lancelot usumahh | 33 | 2 | 23 | 58
+5 | lzaaaaa | 24 | 11 | 8 | 43
+6 | USUMAHH = DYWY | 26 | 4 | 12 | 42
+7 | usumahhhooh | 35 |   |   | 35
+8 | USUMAhh popoling | 22 | 13 |   | 35
+
