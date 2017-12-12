@@ -51,3 +51,8 @@ https://play.pokemonshowdown.com/neverused
 
 ![NU2](https://i.imgur.com/Q8vwCmd.png)
 
+## 教学
+
+NU官方一对一辅导，要求英文流利、使用discord，海外党优先
+
+http://www.smogon.com/forums/threads/apprentice-program-signups-sumo-nu.3612065/
