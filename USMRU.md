@@ -53,3 +53,8 @@ https://play.pokemonshowdown.com/rarelyused
 
 ![RU2](https://i.imgur.com/oLnZ3J2.png)
 
+## 教学
+
+RU官方一对一辅导，要求英文流利、使用discord，海外党优先
+
+http://www.smogon.com/forums/threads/apprentice-program-signups-sumo-ru.3601602/
