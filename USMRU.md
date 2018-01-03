@@ -44,6 +44,16 @@ https://play.pokemonshowdown.com/rarelyused
 
 [**RU 宝可梦功能分类列表**](http://www.smogon.com/forums/threads/sm-ru-role-compendium.3606748/)
 
+## 赛事学习
+
+**SMOGON最顶级赛事 SPL 回放集合**
+
+http://www.smogon.com/forums/threads/spl-9-logs-replays.3624592/
+
+**SMOGON最顶级赛事 SPL RU讨论**
+
+http://www.smogon.com/forums/threads/smogon-premier-league-ix-ru-discussion.3623432/
+
 ## 抄队资源
 
 [**RU 官方标准队**](http://www.smogon.com/forums/threads/usm-ru-sample-teams-thread.3622057/)
