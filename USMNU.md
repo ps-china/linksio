@@ -32,6 +32,16 @@ https://play.pokemonshowdown.com/neverused
 
 [**NU 速度线 与 宝可梦功能分类列表**](http://www.smogon.com/forums/threads/nu-speed-tiers-role-compendium.3606163/)
 
+## 赛事学习
+
+**SMOGON最顶级赛事 SPL 回放集合**
+
+http://www.smogon.com/forums/threads/spl-9-logs-replays.3624592/
+
+**SMOGON最顶级赛事 SPL NU讨论**
+
+http://www.smogon.com/forums/forums/neverused.452/
+
 ## 抄队资源
 
 [**NU 官方标准队**](http://www.smogon.com/forums/threads/nu-sample-teams.3612396/)
