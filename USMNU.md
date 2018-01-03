@@ -40,7 +40,7 @@ http://www.smogon.com/forums/threads/spl-9-logs-replays.3624592/
 
 **SMOGON最顶级赛事 SPL NU讨论**
 
-http://www.smogon.com/forums/forums/neverused.452/
+http://www.smogon.com/forums/threads/smogon-premier-league-9-nu-discussion-week-1.3623416/
 
 ## 抄队资源
 
