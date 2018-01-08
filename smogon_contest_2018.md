@@ -6,13 +6,28 @@ http://www.smogon.com/forums/threads/official-smogon-tournament-xiv-signups.3625
 
 USUM OU 官服BO3 单淘汰赛 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
-### 奖励【目前报名人数：500人】
+### 奖励【目前报名人数：1024人】
 
 SMOGON 官方对冠军设置奖金200美元，约合人民币1300元。获取一定名次，国服也会给予头像奖励。
 
 ---
+## 【Smogon比赛】USUM Ubers 季度赛【报名进行中】
 
-### 【世界杯中国队选拔赛事】【Smogon比赛】SM NU 联盟杯 第一赛季【报名结束】
+http://www.smogon.com/forums/threads/ubers-winter-seasonal-iii-signups-2018-ubers-tournament-circuit.3625154/
+
+USUM Ubers 官服BO3 【双淘汰赛】 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+
+### 奖励【目前报名人数：64人】
+
+总报名人数在64人时进入决赛就有国服头像奖励，进入前4有公屏voice
+
+总报名人数在96人时进入前3就有国服头像奖励，进入前6有公屏voice
+
+总报名人数在128人时进入前4就有国服头像奖励，进入前8有公屏voice
+
+---
+
+### 【世界杯中国队选拔赛事】【Smogon比赛】USUM NU 联盟杯 第一赛季【报名结束】
 
 http://www.smogon.com/forums/threads/neverused-league-iv-sign-ups.3624395/  
 
@@ -34,7 +49,7 @@ USUM NU 官服BO3 【双淘汰赛】开始报名，在Smogon论坛注册账号�
 
 
 
-### 【世界杯中国队选拔赛事】【Smogon比赛】SM RU 季度赛 【报名结束】
+### 【世界杯中国队选拔赛事】【Smogon比赛】USUM RU 季度赛 【报名结束】
 
 http://www.smogon.com/forums/threads/ru-winter-seasonals-signups.3624540/
 
