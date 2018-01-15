@@ -1,18 +1,16 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
-## **_【1300元冠军奖励】_** 【Smogon比赛】OST SMOGON USUM OU大赛【报名进行中】
+## **_【1300元冠军奖励】_** 【Smogon比赛】OST SMOGON USUM OU大赛【替补报名中】
 
 http://www.smogon.com/forums/threads/official-smogon-tournament-xiv-signups.3625049/
 
 USUM OU 官服BO3 单淘汰赛 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
-### 奖励【目前报名人数：2048人】
+### 奖励【报名人数：2048人】
 
 SMOGON 官方对冠军设置奖金200美元，约合人民币1300元。
 
 2048人报名时，进入128强给予公屏voice奖励，进入64强给予国服头像奖励，进入32强给予专属宠物奖励。
-
-报名人数多于2048人时，按照比例缩放对应名次要求。
 
 ---
 ## 【Smogon比赛】USUM Ubers 季度赛【报名进行中】
