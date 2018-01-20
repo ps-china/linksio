@@ -8,6 +8,8 @@
 
 [点击查看LC资源](#usum-lc-资源)
 
+[点击查看过去世代OU资源](#old-gens-资源)
+
 # USUM RU 资源
 
 ## 分级规则与资源
@@ -21,6 +23,8 @@
 [**RU 速度线**](http://www.smogon.com/forums/threads/sm-ru-speed-tiers-list.3601219/)
 
 [**RU 宝可梦功能分类列表**](http://www.smogon.com/forums/threads/sm-ru-role-compendium.3606748/)
+
+RU QQ讨论组：可以联系Yoppie / Mewtwo927(梦梦) / fsk 加入
 
 ## 赛事学习
 
@@ -98,6 +102,8 @@ B. 在PS 官服的NU房间，累计取得7次USUM NU比赛冠军（每次必须�
 
 [**NU 速度线 与 宝可梦功能分类列表**](http://www.smogon.com/forums/threads/nu-speed-tiers-role-compendium.3606163/)
 
+NU QQ讨论组：可以联系Yoppie / Mewtwo927(梦梦) / fsk 加入
+
 ## 赛事学习
 
 **SMOGON最顶级赛事 SPL 之回放集合**
@@ -171,6 +177,8 @@ fsk的LC讨论群: 631393490
 
 [**部分其他优秀比赛队伍**](http://www.smogon.com/forums/threads/a-bunch-of-usm-lc-teams.3624477/)
 
+[**USUM 比赛回放**](http://www.smogon.com/forums/threads/smogon-exhibition-logs-and-replays.3625100/)
+
 ## 训练资源:
 
 ### 季度赛（2月18日开始报名）
@@ -184,3 +192,11 @@ https://play.pokemonshowdown.com/littlecup
 ### 官服天梯
 
 ### 奖励: 暂无
+
+# Old Gens 资源
+
+## 联络加QQ讨论组 / discord 资源群
+
+对 G2 / G3 / G4 OU 感兴趣、对战基础扎实的玩家可以联系 夜色淡雅 / fsk / Mewtwo927 / Yoppie / 背影 等人，加入对应的QQ 讨论组，获取相关资料
+
+## [官方标准队](http://www.smogon.com/forums/threads/roa-sample-teams-thread-v2.3549991/)
