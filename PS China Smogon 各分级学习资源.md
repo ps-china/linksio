@@ -1,12 +1,12 @@
 # *目录*
 
-[点击查看OU标准队](https://github.com/ps-china/blog/blob/master/ousample.md)
+[点击查看USUM OU标准队](https://github.com/ps-china/blog/blob/master/ousample.md)
 
-[点击查看RU资源](#usum-ru-资源)
+[点击查看USUM RU资源](#usum-ru-资源)
 
-[点击查看NU资源](#usum-nu-资源)
+[点击查看USUM NU资源](#usum-nu-资源)
 
-[点击查看LC资源](#usum-lc-资源)
+[点击查看USUM LC资源](#usum-lc-资源)
 
 [点击查看过去世代OU资源](#old-gens-资源)
 
