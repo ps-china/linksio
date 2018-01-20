@@ -1,8 +1,12 @@
-# 目录
+# *目录*
+
+[点击查看OU标准队](https://github.com/ps-china/blog/blob/master/ousample.md)
 
 [点击查看RU资源](#usum-ru-资源)
 
 [点击查看NU资源](#usum-nu-资源)
+
+[点击查看LC资源](#usum-lc-资源)
 
 # USUM RU 资源
 
@@ -149,4 +153,34 @@ A. 在PS 官服的NU天梯内，取得 1500 ELO 且 GXE 83%以上
 
 B. 在PS 官服的NU房间，累计取得7次USUM NU比赛冠军（每次必须有至少8人参加，请提供截图）
 
+# USUM LC 资源
 
+## 分级规则与资源
+
+[**LC 官方资源链接（点精灵名字可以看常见配置)**](http://www.smogon.com/dex/sm/formats/lc/)
+
+[**LC 精灵评级**](http://www.smogon.com/forums/threads/usm-lc-viability-rankings.3621440/)
+
+[**LC Discord （LC 官方英文discord讨论群)**](https://discord.gg/yTWkuB5)
+
+fsk的LC讨论群: 631393490
+
+## 抄队资源
+ 
+[**标准队**](http://www.smogon.com/forums/threads/multigen-lc-sample-teams-from-adv-to-sm.3588679/)
+
+[**部分其他优秀比赛队伍**](http://www.smogon.com/forums/threads/a-bunch-of-usm-lc-teams.3624477/)
+
+## 训练资源:
+
+### 季度赛（2月18日开始报名）
+
+根据届时报名人数，进入前8 / 前6有国服头像奖励。
+
+### 官服LC房间比赛
+
+https://play.pokemonshowdown.com/littlecup
+
+### 官服天梯
+
+### 奖励: 暂无
