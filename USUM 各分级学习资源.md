@@ -14,11 +14,11 @@
 
 ## 分级规则与资源
 
-[**RU 官方资源链接（点精灵名字可以看常见配置）**](http://www.smogon.com/dex/sm/formats/ru/)
+[**RU 官方资源链接(点精灵名字可以看常见配置)**](http://www.smogon.com/dex/sm/formats/ru/)
 
 [**RU VR （RU 各宝可梦评分)**](http://www.smogon.com/forums/threads/ru-viability-rankings-v2.3622740/)
 
-[**RU Discord （RU 官方英文discord讨论群)**](https://discord.gg/dR7Mphd)
+[**RU Discord (RU 官方英文discord讨论群)**](https://discord.gg/dR7Mphd)
 
 [**RU 速度线**](http://www.smogon.com/forums/threads/sm-ru-speed-tiers-list.3601219/)
 
@@ -94,11 +94,11 @@ B. 在PS 官服的NU房间，累计取得7次USUM NU比赛冠军（每次必须�
 
 ## 分级规则与资源
 
-[**NU 官方资源链接（点精灵名字可以看常见配置)**](http://www.smogon.com/dex/sm/formats/nu/)
+[**NU 官方资源链接(点精灵名字可以看常见配置)**](http://www.smogon.com/dex/sm/formats/nu/)
 
 [**NU VR (NU 各宝可梦评分)**](http://www.smogon.com/forums/threads/usum-nu-viability-rankings.3622107/)
 
-[**NU Discord （NU 官方英文discord讨论群)**](https://discordapp.com/invite/QVXZ98U)
+[**NU Discord (NU 官方英文discord讨论群)**](https://discordapp.com/invite/QVXZ98U)
 
 [**NU 速度线 与 宝可梦功能分类列表**](http://www.smogon.com/forums/threads/nu-speed-tiers-role-compendium.3606163/)
 
@@ -163,11 +163,11 @@ B. 在PS 官服的NU房间，累计取得7次USUM NU比赛冠军（每次必须�
 
 ## 分级规则与资源
 
-[**LC 官方资源链接（点精灵名字可以看常见配置)**](http://www.smogon.com/dex/sm/formats/lc/)
+[**LC 官方资源链接 (点精灵名字可以看常见配置)**](http://www.smogon.com/dex/sm/formats/lc/)
 
 [**LC 精灵评级**](http://www.smogon.com/forums/threads/usm-lc-viability-rankings.3621440/)
 
-[**LC Discord （LC 官方英文discord讨论群)**](https://discord.gg/yTWkuB5)
+[**LC Discord (LC 官方英文discord讨论群)**](https://discord.gg/yTWkuB5)
 
 fsk的LC讨论群: 631393490
 
@@ -197,6 +197,6 @@ https://play.pokemonshowdown.com/littlecup
 
 ## 联络加QQ讨论组 / discord 资源群
 
-对 G2 / G3 / G4 OU 感兴趣、对战基础扎实的玩家可以联系 夜色淡雅 / fsk / Mewtwo927 / Yoppie / 背影 等人，加入对应的QQ 讨论组，获取相关资料
+对 G2 / G3 / G4 OU 感兴趣、对战基础扎实的玩家可以联系 夜色淡雅 / fsk / Mewtwo927(梦梦) / Yoppie / 背影 等人，加入对应的QQ 讨论组，获取相关资料
 
 ## [官方标准队](http://www.smogon.com/forums/threads/roa-sample-teams-thread-v2.3549991/)
