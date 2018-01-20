@@ -1,8 +1,8 @@
 # 目录
 
-[点击查看RU资源](#usum-ru)
+[点击查看RU资源](#usum-ru-资源)
 
-[点击查看NU资源](#usum-nu)
+[点击查看NU资源](#usum-nu-资源)
 
 # USUM RU 资源
 
