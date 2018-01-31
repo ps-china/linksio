@@ -1,5 +1,25 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【Smogon比赛】USUM UU 天梯赛【2.18开始】
+
+USUM UU 官服天梯刷分赛。
+
+## 【Smogon比赛】USUM NU 天梯赛【2.18开始】
+
+**本比赛作为世界杯中国队NU分级选拔的重要参考!**
+
+USUM NU 官服天梯刷分赛。
+
+## 【Smogon比赛】USUM LC 季度赛【2.18开始】
+
+USUM LC 官服BO3 双败赛制，在Smogon论坛注册账号、英文约战、一周一赛。
+
+**本比赛作为PSPL中文队LC分级选拔的重要参考!**
+
+## 【Smogon比赛】USUM Balanced Hackmons 公开赛【2.12开始】
+
+USUM BH 官服BO3 单淘汰赛，在Smogon论坛注册账号、英文约战、一周一赛。
+
 ## **_【1300元冠军奖励】_** 【Smogon比赛】OST SMOGON USUM OU大赛【报名结束】
 
 http://www.smogon.com/forums/threads/official-smogon-tournament-xiv-signups.3625049/
