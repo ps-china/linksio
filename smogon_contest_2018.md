@@ -18,7 +18,11 @@ USUM LC 官服BO3 双败赛制，在Smogon论坛注册账号、英文约战、�
 
 ## 【Smogon比赛】USUM Balanced Hackmons 公开赛【2.12开始】
 
-USUM BH 官服BO3 单淘汰赛，在Smogon论坛注册账号、英文约战、一周一赛。
+http://www.smogon.com/forums/threads/the-balanced-hackmons-open-sign-ups.3628406/
+
+USUM BH 官服BO3 单淘汰赛，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+
+奖励: 进入8强奖励国服头像。
 
 ## **_【1300元冠军奖励】_** 【Smogon比赛】OST SMOGON USUM OU大赛【报名结束】
 
