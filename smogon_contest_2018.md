@@ -4,11 +4,13 @@
 
 USUM UU 官服天梯刷分赛。
 
-## 【Smogon比赛】USUM NU 天梯赛【3.1左右开始】
+## 【Smogon比赛】USUM NU 天梯赛【2.26开始报名】
 
 **本比赛作为世界杯中国队NU分级选拔的重要参考!**
 
-USUM NU 官服天梯刷分赛。
+https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-i.3629378/
+
+USUM NU 官服天梯刷分赛。在帖子回复自己的天梯ID（必须有每轮对应的前缀）*之后* 在天梯抢夺前八名的比赛。
 
 ## 【Smogon比赛】USUM Anything Goes 季度赛【2.25开始报名】
 
