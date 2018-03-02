@@ -1,9 +1,5 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
-## 【Smogon比赛】USUM UU 天梯赛【3.1左右开始】
-
-USUM UU 官服天梯刷分赛。
-
 ## 【Smogon比赛】USUM NU 天梯赛【2.26开始报名】
 
 **本比赛作为世界杯中国队NU分级选拔的重要参考!**
@@ -12,11 +8,29 @@ https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-i.3629378/
 
 USUM NU 官服天梯刷分赛。在帖子回复自己的天梯ID（必须有每轮对应的前缀）**之后** 在天梯抢夺前八名的比赛。
 
+**奖励：**
+
+在天梯比赛的四周期间（2.26~3.25）无论你是否正式在帖子内报名，只要取得天梯前十五即可获得国服头像。
+
+## 【Smogon比赛】USUM UU 天梯赛【3.10左右开始】
+
+USUM UU 官服天梯刷分赛。
+
+## 【Smogon比赛】USUM Balanced Hackmons 季度赛【3.2开始报名】
+
+https://www.smogon.com/forums/threads/balanced-hackmons-spring-seasonal-signups.3629604/
+
+USUM BH 官服BO3 双败赛制，在Smogon论坛注册账号、英文约战、一周一赛。
+
+奖励: 进入8强奖励国服头像。
+
 ## 【Smogon比赛】USUM Anything Goes 季度赛【2.25开始报名】
 
 https://www.smogon.com/forums/threads/anything-goes-spring-seasonal-signups.3629270/
 
 USUM AG 官服BO3 双败赛制，在Smogon论坛注册账号、英文约战、一周一赛。
+
+奖励: 进入8强奖励国服头像。
 
 ## 【Smogon比赛】USUM LC 季度赛【报名结束】
 
