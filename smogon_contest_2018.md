@@ -1,5 +1,15 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【Smogon比赛】ORAS OU 杯赛【3.3开始报名】
+
+https://www.smogon.com/forums/threads/unofficial-oras-ou-cup-i-signups.3629689/
+
+ORAS OU 官服BO3 【单淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛。
+
+**奖励: **
+
+进入16强即可奖励国服头像。
+
 ## 【Smogon比赛】USUM NU 天梯赛【2.26开始报名】
 
 **本比赛作为世界杯中国队NU分级选拔的重要参考!**
