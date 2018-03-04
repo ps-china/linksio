@@ -6,7 +6,7 @@ https://www.smogon.com/forums/threads/unofficial-oras-ou-cup-i-signups.3629689/
 
 ORAS OU 官服BO3 【单淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛。
 
-**奖励: **
+**奖励：**
 
 进入16强即可奖励国服头像。
 
