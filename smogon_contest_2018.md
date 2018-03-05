@@ -14,7 +14,11 @@ ORAS OU 官服BO3 【单淘汰赛】，在Smogon论坛注册账号、英文约�
 
 **本比赛作为世界杯中国队NU分级选拔的重要参考!**
 
+第一周ID注册
 https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-i.3629378/
+
+第二周ID注册
+https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-2.3629759/#post-7707838
 
 USUM NU 官服天梯刷分赛。在帖子回复自己的天梯ID（必须有每轮对应的前缀）**之后** 在天梯抢夺前八名的比赛。
 
