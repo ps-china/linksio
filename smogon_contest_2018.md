@@ -2,7 +2,9 @@
 
 ## 【Smogon比赛】Smogon 杯赛【3.16开始】
 
-顶级Smogon 个人赛事，自3.16起的每个周末开始持续九周，以**及时在论坛抢位**的方式进行报名。每周一个分级，在BW OU / ORAS OU / USUM OU中轮流进行。
+顶级Smogon 个人赛事，自3.16起的每个周末开始持续九周，以**及时在论坛抢位**的方式进行报名。
+
+每周一个分级，在BW OU / ORAS OU / USUM OU中轮流进行。九周共举办27场比赛，每人每周最多参加2场。
 
 比赛服务器： http://smogtours.psim.us/
 
@@ -17,6 +19,10 @@
 6 pm EDT on Fridays.
 4 pm EDT on Saturdays.
 2 pm EDT on Sundays.
+
+奖励：
+
+任意一次及时比赛进入8强 即可获得国服头像。
 
 ## 【Smogon比赛】ORAS OU 杯赛【3.3开始报名】
 
