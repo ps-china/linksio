@@ -11,20 +11,15 @@
 届时抢位的论坛地址：https://www.smogon.com/forums/forums/smogon-tour.49/
 
 比赛时间：
-国内周六早上 6点 
 
-国内周日凌晨 4点
+国内周六早上 6点 (6 pm EDT on Fridays.)
 
-国内周一凌晨 2点
+国内周日凌晨 4点 (4 pm EDT on Saturdays.)
 
-美国时间：
-6 pm EDT on Fridays.
+国内周一凌晨 2点 (2 pm EDT on Sundays.)
 
-4 pm EDT on Saturdays.
 
-2 pm EDT on Sundays.
-
-奖励：
+**奖励**：
 
 任意一次及时比赛进入8强 即可获得国服头像。
 
