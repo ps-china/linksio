@@ -1,5 +1,23 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【Smogon比赛】Smogon 杯赛【3.16开始】
+
+顶级Smogon 个人赛事，自3.16起的每个周末开始持续九周，以**及时在论坛抢位**的方式进行报名。每周一个分级，在BW OU / ORAS OU / USUM OU中轮流进行。
+
+比赛服务器： http://smogtours.psim.us/
+
+届时抢位的论坛地址：https://www.smogon.com/forums/forums/smogon-tour.49/
+
+比赛时间：
+国内周六早上 6点 
+国内周日凌晨 4点
+国内周一凌晨 2点
+
+美国时间：
+6 pm EDT on Fridays.
+4 pm EDT on Saturdays.
+2 pm EDT on Sundays.
+
 ## 【Smogon比赛】ORAS OU 杯赛【3.3开始报名】
 
 https://www.smogon.com/forums/threads/unofficial-oras-ou-cup-i-signups.3629689/
