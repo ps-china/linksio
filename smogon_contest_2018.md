@@ -12,12 +12,16 @@
 
 比赛时间：
 国内周六早上 6点 
+
 国内周日凌晨 4点
+
 国内周一凌晨 2点
 
 美国时间：
 6 pm EDT on Fridays.
+
 4 pm EDT on Saturdays.
+
 2 pm EDT on Sundays.
 
 奖励：
