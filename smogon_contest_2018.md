@@ -1,5 +1,17 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【Smogon比赛】USUM LC 瑞士轮【3.11开始报名】
+
+https://www.smogon.com/forums/threads/little-cup-swiss-signups.3630218/
+
+USUM LC 官服BO1 **【瑞士轮赛】**，在Smogon论坛注册账号、英文约战、一周一赛。
+
+**本比赛作为PSPL中文队RU分级选拔的重要参考!**
+
+### 奖励
+
+进入12 / 16强 即可获得国服头像。
+
 ## 【Smogon比赛】Smogon 杯赛【3.16开始】
 
 顶级Smogon 个人赛事，自3.16起的每个周末开始持续九周，以**及时在论坛抢位**的方式进行报名。
@@ -22,16 +34,6 @@
 **奖励**：
 
 任意一次及时比赛进入8强 即可获得国服头像。
-
-## 【Smogon比赛】ORAS OU 杯赛【3.3开始报名】
-
-https://www.smogon.com/forums/threads/unofficial-oras-ou-cup-i-signups.3629689/
-
-ORAS OU 官服BO3 【单淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛。
-
-**奖励：**
-
-进入16强即可奖励国服头像。
 
 ## 【Smogon比赛】USUM NU 天梯赛【2.26开始报名】
 
@@ -65,21 +67,13 @@ https://play.pokemonshowdown.com/neverused
 
 所以推荐国内玩家在 周五晚上12点 （周六凌晨0点）、周日周一的中午11点  到官服NU房间参加比赛
 
-**奖励:** 
+### 奖励
 
 累计获得6个冠军(每次至少8人参加)可以获得国服头像；如果你取得了积分榜名次官服NU权限还会给你官服的NU Room Voice
 
 ## 【Smogon比赛】USUM UU 天梯赛【3.10左右开始】
 
 USUM UU 官服天梯刷分赛。
-
-## 【Smogon比赛】USUM Balanced Hackmons 季度赛【3.2开始报名】
-
-https://www.smogon.com/forums/threads/balanced-hackmons-spring-seasonal-signups.3629604/
-
-USUM BH 官服BO3 双败赛制，在Smogon论坛注册账号、英文约战、一周一赛。
-
-奖励: 进入8强奖励国服头像。
 
 ### 【PSPL中文队选拔】【Smogon比赛】USUM RU 杯赛 【3.22开始报名】 
 
@@ -89,7 +83,25 @@ USUM RU 官服BO3 【双淘汰赛】，在Smogon论坛注册账号、英文约�
 
 奖励: 进入8强 / 12强 奖励国服头像。
 
-## 【Smogon比赛】USUM Anything Goes 季度赛【2.25开始报名】
+## 【Smogon比赛】ORAS OU 杯赛【报名结束】
+
+https://www.smogon.com/forums/threads/unofficial-oras-ou-cup-i-signups.3629689/
+
+ORAS OU 官服BO3 【单淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛。
+
+### 奖励【报名人数：192人】
+
+进入16强即可奖励国服头像。
+
+## 【Smogon比赛】USUM Balanced Hackmons 季度赛【报名结束】
+
+https://www.smogon.com/forums/threads/balanced-hackmons-spring-seasonal-signups.3629604/
+
+USUM BH 官服BO3 双败赛制，在Smogon论坛注册账号、英文约战、一周一赛。
+
+奖励: 进入8强奖励国服头像。
+
+## 【Smogon比赛】USUM Anything Goes 季度赛【报名结束】
 
 https://www.smogon.com/forums/threads/anything-goes-spring-seasonal-signups.3629270/
 
@@ -150,7 +162,7 @@ USUM NU 官服BO3 【双淘汰赛】开始报名，在Smogon论坛注册账号�
 
 **本比赛作为世界杯中国队NU分级选拔的重要参考!**
 
-#### 奖励【目前报名人数：128人】
+#### 奖励【报名人数：128人】
 
 按照获取的胜利数量来进行奖励。选手在被淘汰前（双败制），每获取一轮BO3比赛的胜利即积累1分。
 
