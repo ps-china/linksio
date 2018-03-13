@@ -6,7 +6,7 @@ https://www.smogon.com/forums/threads/little-cup-swiss-signups.3630218/
 
 USUM LC 官服BO1 **【瑞士轮赛】**，在Smogon论坛注册账号、英文约战、一周一赛。
 
-**本比赛作为PSPL中文队RU分级选拔的重要参考!**
+**本比赛作为PSPL中文队LC分级选拔的重要参考!**
 
 ### 奖励
 
@@ -170,7 +170,7 @@ USUM NU 官服BO3 【双淘汰赛】开始报名，在Smogon论坛注册账号�
 
 获取大于6分者，将被作为代表中国队在世界杯NU分级出场的重要考察对象。
 
-[**点此查看NU资料**](https://github.com/CTCC1/linksio/blob/f792c4d54fe2ea4810bdafcbdc7a473b8b5d70bb/USMNU.md)
+[**点此查看NU资料**](https://github.com/CTCC1/linksio/blob/master/USMNU.md)
 
 参与者请联系fsk（可以进入国服比赛群106091896找到他），加入国内NU玩家的讨论组，方便交流切磋。
 
@@ -192,6 +192,6 @@ USUM RU 官服BO3 【双淘汰赛】开始报名，在Smogon论坛注册账号�
 
 获取大于6分者，将被作为代表中国队在世界杯RU分级出场的重要考察对象。
 
-[**点此查看RU资料**](https://github.com/CTCC1/linksio/blob/f792c4d54fe2ea4810bdafcbdc7a473b8b5d70bb/USMRU.md)
+[**点此查看RU资料**](https://github.com/CTCC1/linksio/blob/master/USMRU.md)
 
 参与者请联系fsk（可以进入国服比赛群106091896找到他），加入国内RU玩家的讨论组，方便交流切磋。
