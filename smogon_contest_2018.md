@@ -1,16 +1,34 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
-## 【Smogon比赛】USUM LC 瑞士轮【3.11开始报名】
+## 【奖金RMB 188】【Smogon比赛】过去世代杯赛【3.26开始报名G5 OU】
 
-https://www.smogon.com/forums/threads/little-cup-swiss-signups.3630218/
+一年一度的过去世代SMOGON顶级个人赛事。G1-G5OU分五个独立杯赛，三局两胜单淘汰赛制。在Smogon论坛注册账号、英文约战、一周一赛。
 
-USUM LC 官服BO1 **【瑞士轮赛】**，在Smogon论坛注册账号、英文约战、一周一赛。
+G5 OU 3.26 开始报名
 
-**本比赛作为PSPL中文队LC分级选拔的重要参考!**
+G4 OU 4.2 开始报名
 
-### 奖励
+G3 OU 4.2 开始报名
 
-进入12 / 16强 即可获得国服头像。
+G2 OU 4.9 开始报名
+
+G1 OU 4.9 开始报名
+
+**奖励**：
+
+任意一个杯赛及时比赛进入8强 / 12强 即可获得国服头像。
+
+**任意一个杯赛夺冠奖金 RMB 188元**
+
+## 【PSPL中文队选拔】【Smogon比赛】USUM RU 杯赛 【3.22开始报名】 
+
+https://www.smogon.com/forums/threads/usum-ru-cup-ii-signups.3630907/
+
+USUM RU 官服BO3 【双淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛。
+
+**本比赛作为PSPL中文队RU分级选拔的重要参考!**
+
+奖励: 进入8强 / 12强 奖励国服头像。
 
 ## 【Smogon比赛】Smogon 杯赛【3.16开始】
 
@@ -45,6 +63,12 @@ https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-i.3629378/
 第二周ID注册
 https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-2.3629759/
 
+第三周ID注册
+https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-3-tag-is-nult3.3630233/
+
+第四周ID注册
+https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-4-tag-is-nult4.3630826/
+
 USUM NU 官服天梯刷分赛。在帖子回复自己的天梯ID（必须有每轮对应的前缀）**之后** 在天梯抢夺前八名的比赛。
 
 **奖励：**
@@ -71,17 +95,21 @@ https://play.pokemonshowdown.com/neverused
 
 累计获得6个冠军(每次至少8人参加)可以获得国服头像；如果你取得了积分榜名次官服NU权限还会给你官服的NU Room Voice
 
-## 【Smogon比赛】USUM UU 天梯赛【3.10左右开始】
+## 【Smogon比赛】USUM UU 天梯赛【4.10左右开始】
 
 USUM UU 官服天梯刷分赛。
 
-### 【PSPL中文队选拔】【Smogon比赛】USUM RU 杯赛 【3.22开始报名】 
+## 【Smogon比赛】USUM LC 瑞士轮【报名结束】
 
-USUM RU 官服BO3 【双淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛。
+https://www.smogon.com/forums/threads/little-cup-swiss-signups.3630218/
 
-**本比赛作为PSPL中文队RU分级选拔的重要参考!**
+USUM LC 官服BO1 **【瑞士轮赛】**，在Smogon论坛注册账号、英文约战、一周一赛。
 
-奖励: 进入8强 / 12强 奖励国服头像。
+**本比赛作为PSPL中文队LC分级选拔的重要参考!**
+
+### 奖励
+
+进入12 / 16强 即可获得国服头像。
 
 ## 【Smogon比赛】ORAS OU 杯赛【报名结束】
 
