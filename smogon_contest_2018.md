@@ -1,10 +1,12 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
-## 【奖金RMB 188】【Smogon比赛】过去世代杯赛【3.26开始报名G5 OU】
+## 【奖金RMB 188】【Smogon比赛】过去世代杯赛
 
 一年一度的过去世代SMOGON顶级个人赛事。G1-G5OU分五个独立杯赛，三局两胜单淘汰赛制。在Smogon论坛注册账号、英文约战、一周一赛。
 
-G5 OU 3.26 开始报名
+G5 OU 3.26 开始报名 【报名结束，756人参加】
+
+https://www.smogon.com/forums/threads/bw-cup-iv-signups.3631223/
 
 G4 OU 4.2 开始报名
 
@@ -19,16 +21,6 @@ G1 OU 4.9 开始报名
 任意一个杯赛及时比赛进入8强 / 12强 即可获得国服头像。
 
 **任意一个杯赛夺冠奖金 RMB 188元**
-
-## 【PSPL中文队选拔】【Smogon比赛】USUM RU 杯赛 【3.22开始报名】 
-
-https://www.smogon.com/forums/threads/usum-ru-cup-ii-signups.3630907/
-
-USUM RU 官服BO3 【双淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛。
-
-**本比赛作为PSPL中文队RU分级选拔的重要参考!**
-
-奖励: 进入8强 / 12强 奖励国服头像。
 
 ## 【Smogon比赛】Smogon 杯赛【3.16开始】
 
@@ -53,27 +45,16 @@ USUM RU 官服BO3 【双淘汰赛】，在Smogon论坛注册账号、英文约�
 
 任意一次及时比赛进入8强 即可获得国服头像。
 
-## 【Smogon比赛】USUM NU 天梯赛【2.26开始报名】
-
-**本比赛作为世界杯中国队NU分级选拔的重要参考!**
+## 【Smogon比赛】USUM UU 天梯赛【4.1开始第一周】
 
 第一周ID注册
-https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-i.3629378/
+https://www.smogon.com/forums/threads/underused-ladder-tournament-2018-week-1.3631652/#post-7740283
 
-第二周ID注册
-https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-2.3629759/
-
-第三周ID注册
-https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-3-tag-is-nult3.3630233/
-
-第四周ID注册
-https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-4-tag-is-nult4.3630826/
-
-USUM NU 官服天梯刷分赛。在帖子回复自己的天梯ID（必须有每轮对应的前缀）**之后** 在天梯抢夺前八名的比赛。
+USUM UU 官服天梯刷分赛。在帖子回复自己的天梯ID（必须有每轮对应的前缀）**之后** 在天梯抢夺前四名的比赛。
 
 **奖励：**
 
-在天梯比赛的四周期间（2.26~3.25）无论你是否正式在帖子内报名，只要取得天梯前十五即可获得国服头像。
+在天梯比赛的四周期间（4.1~4.29）无论你是否正式在帖子内报名，只要取得天梯前八即可获得国服头像。
 
 ## 【Smogon比赛】USUM NU 房间赛【3.2开始】
 
@@ -119,9 +100,37 @@ G2 OU 官服BO3 【单淘汰赛】，在Pokemon Perfect论坛注册账号、英�
 
 进入任意杯赛即可获得国服头像。
 
-## 【Smogon比赛】USUM UU 天梯赛【4.10左右开始】
+## 【PSPL中文队选拔】【Smogon比赛】USUM RU 杯赛 【报名结束】 
 
-USUM UU 官服天梯刷分赛。
+https://www.smogon.com/forums/threads/usum-ru-cup-ii-signups.3630907/
+
+USUM RU 官服BO3 【双淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛。
+
+**本比赛作为PSPL中文队RU分级选拔的重要参考!**
+
+奖励: 进入8强 / 12强 奖励国服头像。
+
+## 【Smogon比赛】USUM NU 天梯赛【结束】
+
+**本比赛作为世界杯中国队NU分级选拔的重要参考!**
+
+第一周ID注册
+https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-i.3629378/
+
+第二周ID注册
+https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-2.3629759/
+
+第三周ID注册
+https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-3-tag-is-nult3.3630233/
+
+第四周ID注册
+https://www.smogon.com/forums/threads/the-usm-nu-ladder-tournament-week-4-tag-is-nult4.3630826/
+
+USUM NU 官服天梯刷分赛。在帖子回复自己的天梯ID（必须有每轮对应的前缀）**之后** 在天梯抢夺前八名的比赛。
+
+**奖励：**
+
+在天梯比赛的四周期间（2.26~3.25）无论你是否正式在帖子内报名，只要取得天梯前十即可获得国服头像。
 
 ## 【Smogon比赛】USUM LC 瑞士轮【报名结束】
 
