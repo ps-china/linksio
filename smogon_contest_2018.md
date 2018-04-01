@@ -48,7 +48,8 @@ G1 OU 4.9 开始报名
 ## 【Smogon比赛】USUM UU 天梯赛【4.1开始第一周】
 
 第一周ID注册
-https://www.smogon.com/forums/threads/underused-ladder-tournament-2018-week-1.3631652/#post-7740283
+
+https://www.smogon.com/forums/threads/underused-ladder-tournament-2018-week-1.3631652/
 
 USUM UU 官服天梯刷分赛。在帖子回复自己的天梯ID（必须有每轮对应的前缀）**之后** 在天梯抢夺前四名的比赛。
 
