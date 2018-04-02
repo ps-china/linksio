@@ -10,7 +10,11 @@ https://www.smogon.com/forums/threads/bw-cup-iv-signups.3631223/
 
 G4 OU 4.2 开始报名
 
+https://www.smogon.com/forums/threads/dpp-cup-iv-signups.3631696/
+
 G3 OU 4.2 开始报名
+
+https://www.smogon.com/forums/threads/adv-cup-iv-signups.3631699/
 
 G2 OU 4.9 开始报名
 
