@@ -18,7 +18,11 @@ https://www.smogon.com/forums/threads/adv-cup-iv-signups.3631699/
 
 G2 OU 4.9 开始报名
 
+https://www.smogon.com/forums/threads/gsc-cup-iv-signups.3632134/
+
 G1 OU 4.9 开始报名
+
+https://www.smogon.com/forums/threads/rby-cup-iv-signups.3632171/
 
 **奖励**：
 
