@@ -1,5 +1,31 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【Smogon比赛】USUM Ubers 季度赛【报名进行中】
+
+https://www.smogon.com/forums/threads/ubers-summer-seasonal-iii-signups-open.3633829/
+
+USUM Ubers 官服BO3 【双淘汰赛】 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+
+### 奖励
+
+按照获取的胜利数量来进行奖励。选手在被淘汰前（双败制），每获取一轮BO3比赛的胜利即积累1分。
+
+累计获得6分即可获得国服头像奖励。
+
+---
+
+## 【Smogon比赛】USUM NU 联盟杯 第二赛季【报名进行中】
+
+https://www.smogon.com/forums/threads/the-neverused-league-iv-cycle-2-sign-ups.3633812/
+
+USUM NU 官服BO3 【双淘汰赛】开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+
+### 奖励
+
+按照获取的胜利数量来进行奖励。选手在被淘汰前（双败制），每获取一轮BO3比赛的胜利即积累1分。
+
+累计获得6分即可获得国服头像奖励。
+
 ## 【奖金RMB 188】【Smogon比赛】过去世代杯赛
 
 一年一度的过去世代SMOGON顶级个人赛事。G1-G5OU分五个独立杯赛，三局两胜单淘汰赛制。在Smogon论坛注册账号、英文约战、一周一赛。
@@ -8,19 +34,19 @@ G5 OU 3.26 开始报名 【报名结束，756人参加】
 
 https://www.smogon.com/forums/threads/bw-cup-iv-signups.3631223/
 
-G4 OU 4.2 开始报名
+G4 OU 4.2 开始报名 【报名结束，512人参加】
 
 https://www.smogon.com/forums/threads/dpp-cup-iv-signups.3631696/
 
-G3 OU 4.2 开始报名
+G3 OU 4.2 开始报名 【报名结束，512人参加】
 
 https://www.smogon.com/forums/threads/adv-cup-iv-signups.3631699/
 
-G2 OU 4.9 开始报名
+G2 OU 4.9 开始报名 【报名结束，384人参加】
 
 https://www.smogon.com/forums/threads/gsc-cup-iv-signups.3632134/
 
-G1 OU 4.9 开始报名
+G1 OU 4.9 开始报名 【报名结束，384人参加】
 
 https://www.smogon.com/forums/threads/rby-cup-iv-signups.3632171/
 
