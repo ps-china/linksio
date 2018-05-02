@@ -1,5 +1,29 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【PokemonPerfect比赛】【200+ 奖金】RBY OU 第十五赛季【报名进行中】
+
+http://www.pokemonperfect.com/forums/index.php?threads/rby-ou-season-15.4959/
+
+G1 OU 官服BO3 【单淘汰赛】，在Pokemon Perfect论坛注册账号、英文约战、一周一赛。
+
+### 奖励
+
+获得赛季冠军奖励30欧元(约合人民币230元)，亚军奖励20欧元(约合人民币150元)，季军奖励10欧元(约合人民币80元)
+
+进入任意杯赛决赛即可获得国服头像。
+
+## 【PokemonPerfect比赛】【200+ 奖金】ADV OU 第六赛季【报名进行中】
+
+http://www.pokemonperfect.com/forums/index.php?threads/adv-ou-season-6.4961/
+
+G3 OU 官服BO3 【单淘汰赛】，在Pokemon Perfect论坛注册账号、英文约战、一周一赛。
+
+### 奖励
+
+获得赛季冠军奖励30欧元(约合人民币230元)，亚军奖励20欧元(约合人民币150元)，季军奖励10欧元(约合人民币80元)
+
+进入任意杯赛决赛即可获得国服头像。
+
 ## 【Smogon比赛】USUM Ubers 季度赛【报名进行中】
 
 https://www.smogon.com/forums/threads/ubers-summer-seasonal-iii-signups-open.3633829/
@@ -79,7 +103,7 @@ https://www.smogon.com/forums/threads/rby-cup-iv-signups.3632171/
 
 任意一次及时比赛进入8强 即可获得国服头像。
 
-## 【Smogon比赛】USUM UU 天梯赛【4.1开始第一周】
+## 【Smogon比赛】USUM UU 天梯赛【报名结束】
 
 第一周ID注册
 
@@ -111,7 +135,7 @@ https://play.pokemonshowdown.com/neverused
 
 累计获得6个冠军(每次至少8人参加)可以获得国服头像；如果你取得了积分榜名次官服NU权限还会给你官服的NU Room Voice
 
-## 【PokemonPerfect比赛】【200+ 奖金】DPP OU 第三赛季【最后报名一周时间】
+## 【PokemonPerfect比赛】【200+ 奖金】DPP OU 第三赛季【报名结束】
 
 http://www.pokemonperfect.com/forums/index.php?threads/hgss-ou-season-3.4797/
 
@@ -121,9 +145,9 @@ G4 OU 官服BO3 【单淘汰赛】，在Pokemon Perfect论坛注册账号、英�
 
 获得赛季冠军奖励30欧元(约合人民币230元)，亚军奖励20欧元(约合人民币150元)，季军奖励10欧元(约合人民币80元)
 
-进入任意杯赛即可获得国服头像。
+进入任意杯赛决赛即可获得国服头像。
 
-## 【PokemonPerfect比赛】【200+ 奖金】GSC OU 第九赛季【最后报名一周时间】
+## 【PokemonPerfect比赛】【200+ 奖金】GSC OU 第九赛季【报名结束】
 
 http://www.pokemonperfect.com/forums/index.php?threads/gsc-ou-season-9.4799/
 
@@ -133,7 +157,7 @@ G2 OU 官服BO3 【单淘汰赛】，在Pokemon Perfect论坛注册账号、英�
 
 获得赛季冠军奖励30欧元(约合人民币230元)，亚军奖励20欧元(约合人民币150元)，季军奖励10欧元(约合人民币80元)
 
-进入任意杯赛即可获得国服头像。
+进入任意杯赛决赛即可获得国服头像。
 
 ## 【PSPL中文队选拔】【Smogon比赛】USUM RU 杯赛 【报名结束】 
 
