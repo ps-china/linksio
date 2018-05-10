@@ -1,5 +1,15 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【PO比赛】USUM OU POT【报名5月20日截止】
+
+http://pokemon-online.eu/threads/37621/
+
+G7 OU 官服BO3 【单淘汰赛】，在Pokemon Online论坛注册账号、英文约战、一周一赛。
+
+### 奖励
+
+进入决赛即可获得国服头像。
+
 ## 【PokemonPerfect比赛】【200+ 奖金】RBY OU 第十五赛季【报名进行中】
 
 http://www.pokemonperfect.com/forums/index.php?threads/rby-ou-season-15.4959/
