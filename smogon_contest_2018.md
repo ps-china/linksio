@@ -16,7 +16,7 @@ USM 1v1 官服BO5 【双败淘汰赛】，在Smogon论坛注册账号、英文�
 
 USM AG 官服BO3 【双败淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
-https://www.smogon.com/forums/threads/anything-goes-summer-seasonal-signups.3635872/page-3
+https://www.smogon.com/forums/threads/anything-goes-summer-seasonal-signups.3635872/
 
 ## 【PO比赛】USUM OU POT【报名5月20日截止】
 
