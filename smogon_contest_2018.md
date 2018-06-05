@@ -1,16 +1,22 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【Smogon比赛】LC 夏季赛【报名6月10日截止】
+
+https://www.smogon.com/forums/threads/lc-summer-seasonal-ii-signups.3636029/
+
+USM LC 官服BO3 【双淘汰赛】 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+
 ## 【Smogon比赛】OM 1v1 夏季赛【报名6月9日截止】
 
 https://www.smogon.com/forums/threads/1v1-summer-seasonal-signups.3635985/
 
 USM 1v1 官服BO5 【双败淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
-## 【Smogon比赛】LC 夏季赛【报名6月10日截止】
+## 【Smogon比赛】OM AG 夏季赛【报名进行中】
 
-https://www.smogon.com/forums/threads/lc-summer-seasonal-ii-signups.3636029/
+USM AG 官服BO3 【双败淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
-USM LC 官服BO3 【双淘汰赛】 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+https://www.smogon.com/forums/threads/anything-goes-summer-seasonal-signups.3635872/page-3
 
 ## 【PO比赛】USUM OU POT【报名5月20日截止】
 
