@@ -1,22 +1,26 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【PS房间比赛】ROA 房间积分赛
+
+加入 https://play.pokemonshowdown.com/ruinsofalph 房间，参加其房间随报随打的积分赛，积累积分榜积分。（这些比赛主要涵盖G1-6的OU分级等）
+
+进入前8即可进入季后赛，在论坛举办。
+
+### 奖励
+
+进入季后赛者奖励专属头像。夺冠额外奖励QQ红包。
+
 ## 【Smogon比赛】LC 夏季赛【报名6月10日截止】
 
 https://www.smogon.com/forums/threads/lc-summer-seasonal-ii-signups.3636029/
 
 USM LC 官服BO3 【双淘汰赛】 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
-## 【Smogon比赛】OM 1v1 夏季赛【报名6月9日截止】
-
-https://www.smogon.com/forums/threads/1v1-summer-seasonal-signups.3635985/
-
-USM 1v1 官服BO5 【双败淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
-
 ## 【Smogon比赛】OM AG 夏季赛【报名进行中】
 
-USM AG 官服BO3 【双败淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
-
 https://www.smogon.com/forums/threads/anything-goes-summer-seasonal-signups.3635872/
+
+USM AG 官服BO3 【双败淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
 ## 【PO比赛】USUM OU POT【报名5月20日截止】
 
