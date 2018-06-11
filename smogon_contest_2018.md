@@ -1,5 +1,11 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【Smogon比赛】G4 世界冠军杯【报名进行中】
+
+https://www.smogon.com/forums/threads/dpp-ou-global-championship-2018-50-prize-%E2%80%94%EF%B8%8E-signups.3636450/
+
+Gen4 OU 官服BO1 【双淘汰赛】 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
+
 ## 【PS房间比赛】ROA 房间积分赛
 
 加入 https://play.pokemonshowdown.com/ruinsofalph 房间，参加其房间随报随打的积分赛，积累积分榜积分。（这些比赛主要涵盖G1-6的OU分级等）
