@@ -6,6 +6,10 @@ https://www.smogon.com/forums/threads/dpp-ou-global-championship-2018-50-prize-%
 
 Gen4 OU 官服BO1 【双淘汰赛】 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
+### 奖励
+
+进入倒数3轮者奖励专属头像。进入决赛奖励QQ红包，夺冠官方奖励50美金。
+
 ## 【PS房间比赛】ROA 房间积分赛
 
 加入 https://play.pokemonshowdown.com/ruinsofalph 房间，参加其房间随报随打的积分赛，积累积分榜积分。（这些比赛主要涵盖G1-6的OU分级等）
