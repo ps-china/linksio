@@ -1,6 +1,46 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
-## 【Smogon比赛】G4 世界冠军杯【报名进行中】
+## 【Smogon比赛】大满贯 G7 UU 公开赛【6.25开始报名】
+
+顶级赛事，USUM UU 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，6.25开始报名。
+
+### 奖励
+
+进入第7轮者奖励专属头像。进入第9轮或者决赛者奖励QQ红包，夺冠奖励双倍QQ红包。
+
+## 【Smogon比赛】大满贯 G7 RU 公开赛【7.1开始报名】
+
+顶级赛事，USUM RU 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.1开始报名。
+
+### 奖励
+
+进入第7轮者奖励专属头像。进入第9轮或者决赛者奖励QQ红包，夺冠奖励双倍QQ红包。
+
+## 【Smogon比赛】大满贯 G7 NU 公开赛【7.1开始报名】
+
+顶级赛事，USUM UU 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.1开始报名。
+
+### 奖励
+
+进入第7轮者奖励专属头像。进入第9轮或者决赛者奖励QQ红包，夺冠奖励双倍QQ红包。
+
+## 【Smogon比赛】大满贯 G7 LC 公开赛【7.8开始报名】
+
+顶级赛事，USUM LC 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.8开始报名。
+
+### 奖励
+
+进入第8轮者奖励专属头像。进入第10轮或者决赛者奖励QQ红包，夺冠奖励双倍QQ红包。
+
+## 【Smogon比赛】大满贯 G7 LC 公开赛【7.8开始报名】
+
+顶级赛事，USUM UB 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.8开始报名。
+
+### 奖励
+
+进入第8轮者奖励专属头像。进入第10轮或者决赛者奖励QQ红包，夺冠奖励双倍QQ红包。
+
+## 【Smogon比赛】G4 世界冠军杯【替补报名进行中】
 
 https://www.smogon.com/forums/threads/dpp-ou-global-championship-2018-50-prize-%E2%80%94%EF%B8%8E-signups.3636450/
 
@@ -20,19 +60,19 @@ Gen4 OU 官服BO1 【双淘汰赛】 开始报名，在Smogon论坛注册账号�
 
 进入季后赛者奖励专属头像。夺冠额外奖励QQ红包。
 
-## 【Smogon比赛】LC 夏季赛【报名6月10日截止】
+## 【Smogon比赛】LC 夏季赛【报名结束】
 
 https://www.smogon.com/forums/threads/lc-summer-seasonal-ii-signups.3636029/
 
 USM LC 官服BO3 【双淘汰赛】 开始报名，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
-## 【Smogon比赛】OM AG 夏季赛【报名进行中】
+## 【Smogon比赛】OM AG 夏季赛【报名结束】
 
 https://www.smogon.com/forums/threads/anything-goes-summer-seasonal-signups.3635872/
 
 USM AG 官服BO3 【双败淘汰赛】，在Smogon论坛注册账号、英文约战、一周一赛，欲报从速。
 
-## 【PO比赛】USUM OU POT【报名5月20日截止】
+## 【PO比赛】USUM OU POT【报名结束】
 
 http://pokemon-online.eu/threads/37621/
 
