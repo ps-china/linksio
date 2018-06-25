@@ -32,7 +32,7 @@
 
 进入第8轮者奖励专属头像。进入第10轮或者决赛者奖励QQ红包，夺冠奖励双倍QQ红包。
 
-## 【Smogon比赛】大满贯 G7 LC 公开赛【7.8开始报名】
+## 【Smogon比赛】大满贯 G7 UB 公开赛【7.8开始报名】
 
 顶级赛事，USUM UB 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.8开始报名。
 
@@ -40,7 +40,20 @@
 
 进入第8轮者奖励专属头像。进入第10轮或者决赛者奖励QQ红包，夺冠奖励双倍QQ红包。
 
-## 【Smogon比赛】G4 世界冠军杯【替补报名进行中】
+
+## 【PO比赛】 PO冠军联赛 【报名7.7结束】
+
+POCL，大型年度拍卖型团赛，形式类似SPL。分级为G7OU/G7UB/G7LC/G6OU/G5OU/G4OU/G3OU/G2OU/G1OU。
+
+在PO论坛报名，与队长联络海选，努力在拍卖中被买。
+
+报名链接 <http://pokemon-online.eu/threads/37719/>
+
+### 奖励
+
+成功上场并取得一场胜利者，奖励专属头像。在季后赛取胜者奖励公屏司机权限。
+
+## 【Smogon比赛】G4 世界冠军杯【报名结束】
 
 https://www.smogon.com/forums/threads/dpp-ou-global-championship-2018-50-prize-%E2%80%94%EF%B8%8E-signups.3636450/
 
@@ -106,7 +119,7 @@ G3 OU 官服BO3 【单淘汰赛】，在Pokemon Perfect论坛注册账号、英�
 
 进入任意杯赛决赛即可获得国服头像。
 
-## 【Smogon比赛】USUM Ubers 季度赛【报名进行中】
+## 【Smogon比赛】USUM Ubers 季度赛【报名结束】
 
 https://www.smogon.com/forums/threads/ubers-summer-seasonal-iii-signups-open.3633829/
 
@@ -120,7 +133,7 @@ USUM Ubers 官服BO3 【双淘汰赛】 开始报名，在Smogon论坛注册账�
 
 ---
 
-## 【Smogon比赛】USUM NU 联盟杯 第二赛季【报名进行中】
+## 【Smogon比赛】USUM NU 联盟杯 第二赛季【报名结束】
 
 https://www.smogon.com/forums/threads/the-neverused-league-iv-cycle-2-sign-ups.3633812/
 
@@ -132,7 +145,7 @@ USUM NU 官服BO3 【双淘汰赛】开始报名，在Smogon论坛注册账号�
 
 累计获得6分即可获得国服头像奖励。
 
-## 【Smogon比赛】G1-G3联合赛【5月14开始报名】
+## 【Smogon比赛】G1-G3联合赛【报名结束】
 
 SMOGON A级赛事，三局两胜单淘汰赛制，每轮的比赛由G2,G3,G1（3场比赛依照这个顺序进行）组成。
 
