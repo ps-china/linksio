@@ -4,7 +4,7 @@
 
 https://www.smogon.com/forums/threads/the-uu-open-vii-signups.3637676/
 
-顶级赛事，USUM UU 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，6.25开始报名。目前2小时报名人数超过300人。
+顶级赛事，USUM UU 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，6.25开始报名。目前报名人数达1000人。
 
 ### 奖励
 
@@ -12,7 +12,9 @@ https://www.smogon.com/forums/threads/the-uu-open-vii-signups.3637676/
 
 ## 【Smogon比赛】大满贯 G7 RU 公开赛【7.1开始报名】
 
-顶级赛事，USUM RU 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.1开始报名。
+https://www.smogon.com/forums/threads/the-ru-open-vii-signups.3638521/
+
+顶级赛事，USUM RU 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.1开始报名。目前10小时报名人数达400人。
 
 ### 奖励
 
@@ -20,7 +22,9 @@ https://www.smogon.com/forums/threads/the-uu-open-vii-signups.3637676/
 
 ## 【Smogon比赛】大满贯 G7 NU 公开赛【7.1开始报名】
 
-顶级赛事，USUM UU 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.1开始报名。
+https://www.smogon.com/forums/threads/the-nu-open-vii-signups.3638522/
+
+顶级赛事，USUM UU 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.1开始报名。目前10小时报名人数达400人。
 
 ### 奖励
 
