@@ -1,6 +1,6 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
-## 【Smogon比赛】大满贯 G7 UU 公开赛【6.25开始报名】
+## 【Smogon比赛】大满贯 G7 UU 公开赛【6.25开始报名，报名结束】
 
 https://www.smogon.com/forums/threads/the-uu-open-vii-signups.3637676/
 
@@ -32,6 +32,8 @@ https://www.smogon.com/forums/threads/the-nu-open-vii-signups.3638522/
 
 ## 【Smogon比赛】大满贯 G7 LC 公开赛【7.8开始报名】
 
+https://www.smogon.com/forums/threads/the-lc-open-vii-signups.3638828/
+
 顶级赛事，USUM LC 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.8开始报名。
 
 ### 奖励
@@ -39,6 +41,8 @@ https://www.smogon.com/forums/threads/the-nu-open-vii-signups.3638522/
 进入第8轮者奖励专属头像。进入第10轮或者决赛者奖励QQ红包，夺冠奖励双倍QQ红包。
 
 ## 【Smogon比赛】大满贯 G7 UB 公开赛【7.8开始报名】
+
+https://www.smogon.com/forums/threads/the-ubers-open-vii-signups.3638827/
 
 顶级赛事，USUM UB 官服BO3 【单淘汰赛】 ，在Smogon论坛注册账号、英文约战、一周一赛，7.8开始报名。
 
