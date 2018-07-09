@@ -1,5 +1,23 @@
 # 【国服头像/RMB奖励】国外赛事宣传楼 2018
 
+## 【Smogon比赛】冠军之路【论坛挑战赛】
+
+链接: **不是报名帖，请勿回复** https://www.smogon.com/forums/threads/victory-road-5-veteran-trainer-posts-only.3638604/
+
+在该链接中列有G1-G6 OU / UB的优秀玩家名单，选手可以自有挑战这些玩家。比赛为BO1，如果失败则需要等待至少48小时才能继续挑战。
+
+推荐挑战：
+G1OU Troller (今年G1 Global Champion前三）、
+G3OU Astamatitos （今年获得SPL冠军与ADV CUP冠军的顶级选手）、
+G6OU Mounts(知名G6选手）
+
+### 奖励
+
+成功挑战G3 OU获胜者可获得国服公屏权限，累计挑战成功其他任意3个OU分级者也课获得国服公屏权限
+
+累计挑战成功6个任意分级（不限UB/OU）或 G3OU + 任意3个分级可获得国服头像。
+
+
 ## 【Smogon比赛】大满贯 G7 UU 公开赛【6.25开始报名，报名结束】
 
 https://www.smogon.com/forums/threads/the-uu-open-vii-signups.3637676/
