@@ -8,6 +8,8 @@ G7OU 为期四周的官服天梯刷分赛，要求**参赛ID为 "LT51??跟论坛
 
 https://www.smogon.com/forums/threads/smogons-official-ladder-tournament-v-cycle-1-signups.3639188/
 
+第一周天梯ID要求: LT51NP + 你的Smogon论坛用户名
+
 ## 奖励
 **进入季后赛者奖励国服头像与公屏权限。在季后赛中取得佳绩有更丰富的红包奖励，具体金额待定。**
 **未注册Smogon论坛ID参赛，但在OLT比赛期间的任意周日，取得天梯前5者依然可以获得国服头像奖励。要求分数截图带上电脑日期作为证据。**
