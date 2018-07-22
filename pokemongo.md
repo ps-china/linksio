@@ -1,28 +1,36 @@
 ## Attackers
 
-### Gym
+### Gym Attackers
 
 * machamp
 
-  tier 3 raid,  gardevoir / exeggutor / jynx / gengar / birds
+  tier 3 raid,  gardevoir / exeggutor / jynx / gengar / birds, needs 2 trainers.
   
-  best moveset: counter + dynamic punch
+  or catch more machop and evolve.
+  
+  best moveset: counter + dynamic punch.
 
-* Hariyama: tier 1 raid get good litte one; counter + dynamic punch
+* Hariyama: **tier 1 raid get Makuhita. Need about 6 times.**
 
-: top choice
+  Best moveset: counter + dynamic punch
 
-### Raid
+### Raid Attackers
 
-* Gyarados: catch more karp for mew event too. (Moveset needs waterfall)
+* Gyarados: catch more karp for mew event too. 
+  
+  (Moveset needs waterfall, **needs amazing karp from tier 1 raid**)
 
-* jolteon: community day target: thundershock tbolt
+* Jolteon: community day target: thundershock tbolt
  
-* flareon: community day target: fire spin + overheat
+* Flareon: community day target: fire spin + overheat
 
-* espeon: community day target: confusion + futures ight
+* Espeon: community day target: confusion + future sight
 
-* Legacy shadow claw gengar: keep
+* Alolan Exeggutor: bullet seed + solar beam
+
+  tier 2 raid: Regice + Jynx + Piloswine / Cloyster / Walrein / Crobat
+
+* Legacy shadow claw Gengar: Keep
 
 
 ## Gym Defender
@@ -35,13 +43,13 @@
 
   Best moveset: Zen + Body Slam
 
-* Gardevoir: Kirlia tier 2 raid * about 10 times.
+* Gardevoir: **Kirlia tier 2 raid * about 10 times.**
 
   Best moveset: confusion + dazzling gleam
   
   Save some for gallade just maybe
   
-* Exeggutor: in progress. Candies come from Alolan Exeggutor tier 3 raid.
+* Exeggutor: in progress. **Candies come from Alolan Exeggutor raid.**
 
   Best moveset: confusion + solar beam
   
@@ -55,6 +63,6 @@
 
   / Sceptile (bullet seed + leaf blade) / Gyarados (waterfall) / Swampert / Vaporeon / Victreebel (Razor Leaf)
 
-* Vaporeon: community day No.1 target NO.1
+* Vaporeon: community day No.1 target
   
   Best moveset: Water Gun + Hydro Pump
