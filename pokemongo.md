@@ -10,15 +10,15 @@
   
   best moveset: counter + dynamic punch.
 
-* Hariyama: **tier 1 raid get Makuhita. Need about 6 times.**
+* Hariyama: **tier 1 raid get Makuhita. Need about one good IV.**
 
   Best moveset: counter + dynamic punch
 
 ### Raid Attackers
 
-* Gyarados: catch more karp for mew event too. 
+* Gyarados: **Catch more karp** for mew event too. 
   
-  (Moveset needs waterfall, **needs amazing karp from tier 1 raid**)
+  (Moveset needs waterfall, got 1 amazing karp from tier 1 raid)
 
 * Jolteon: community day target: thundershock tbolt
  
@@ -26,7 +26,7 @@
 
 * Espeon: community day target: confusion + future sight
 
-* Alolan Exeggutor: bullet seed + solar beam
+* Alolan Exeggutor: bullet seed + solar beam (*done*, pending fast TM)
 
   tier 2 raid: Regice + Jynx + Piloswine / Cloyster / Walrein / Crobat
 
@@ -35,11 +35,11 @@
 
 ## Gym Defender
 
-* Chansey: keep doing 10km eggs.
+* Chansey: **keep doing 10km eggs.**
   
   Best moveset: gardevoir confusion + dazzling gleam
 
-* Snorlax: in field research reward.
+* Snorlax: in field research reward. (*done*)
 
   Best moveset: Zen + Body Slam
 
@@ -49,19 +49,19 @@
   
   Save some for gallade just maybe
   
-* Exeggutor: in progress. **Candies come from Alolan Exeggutor raid.**
+* Exeggutor: got one, pending fast TM.
 
-  Best moveset: confusion + solar beam
+  Best moveset: confusion + solar beam (But will get Extrasensory / Seed Bomb)
   
-* Clefariy: needs an amazing one. Candies from walking.
+* Clefariy: needs an amazing one. Candies enough now.
 
   Best moveset: Zen + Dazzling Gleam.
 
-* Steelix:
+* ~~Steelix:
 
-  Onix in tier 3 raid, needs Alolan Exeggutor(bullet seed + soloar beam, possible in raid) 
+ ~~Onix in tier 3 raid, needs Alolan Exeggutor(bullet seed + soloar beam, possible in raid)~~
 
-  / Sceptile (bullet seed + leaf blade) / Gyarados (waterfall) / Swampert / Vaporeon / Victreebel (Razor Leaf)
+  ~~/ Sceptile (bullet seed + leaf blade) / Gyarados (waterfall) / Swampert / Vaporeon / Victreebel (Razor Leaf)~~
 
 * Vaporeon: community day No.1 target
   
