@@ -16,7 +16,7 @@
 
 ### Raid Attackers
 
-* Raikou: Research breakthrough!
+* **Raikou** : Research breakthrough!
 
 * Gyarados: **Catch more karps!!!** for mew event too. 
   
