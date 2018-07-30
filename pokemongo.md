@@ -10,13 +10,15 @@
   
   best moveset: counter + dynamic punch.
 
-* Hariyama: **tier 1 raid get Makuhita. Need about one good IV.**
+* Hariyama: **tier 1 raid get Makuhita. Need one good IV.**
 
   Best moveset: counter + dynamic punch
 
 ### Raid Attackers
 
-* Gyarados: **Catch more karp** for mew event too. 
+* Raikou: Research breakthrough!
+
+* Gyarados: **Catch more karps!!!** for mew event too. 
   
   (Moveset needs waterfall, got 1 amazing karp from tier 1 raid)
 
