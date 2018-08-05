@@ -4,9 +4,9 @@
 
 * machamp
 
-  tier 3 raid,  gardevoir / exeggutor / jynx / gengar / birds, needs 2 trainers.
+  tier 3 raid,  mewtwo / gardevoir / exeggutor? / jynx / gengar / birds, needs 2 trainers?
   
-  or catch more machop and evolve.
+  catch machop to upgrade.
   
   best moveset: counter + dynamic punch.
 
@@ -16,7 +16,7 @@
 
 ### Raid Attackers
 
-* **Raikou** : Research breakthrough!
+* **Raikou** : Research breakthrough! Fairly low level.
 
 * Gyarados: **Catch more karps!!!** for mew event too. 
   
@@ -32,20 +32,20 @@
 
   tier 2 raid: Regice + Jynx + Piloswine / Cloyster / Walrein / Crobat
 
-* Legacy shadow claw Gengar: Keep
+* Legacy shadow claw Gengar: Keep upgrading
 
 
 ## Gym Defender
 
 * Chansey: **keep doing 10km eggs.**
   
-  Best moveset: gardevoir confusion + dazzling gleam
+  Best moveset: Zen Headbutt or Pound + dazzling gleam
 
 * Snorlax: in field research reward. (*done*)
 
-  Best moveset: Zen + Body Slam
+  Best moveset: Zen + Body Slam. Needs candies for upgrading.
 
-* Gardevoir: **Kirlia tier 2 raid * about 10 times.**
+* Gardevoir: **Kirlia tier 2 raid * about 10 times. 2times left**
 
   Best moveset: confusion + dazzling gleam
   
