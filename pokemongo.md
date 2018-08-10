@@ -2,9 +2,9 @@
 
 ### Gym Attackers
 
-* machamp
+* **Machamp**
 
-  tier 3 raid,  mewtwo / gardevoir / exeggutor? / jynx / gengar / birds, needs 2 trainers?
+  tier 3 raid,  mewtwo / gardevoir / exeggutor? / jynx / gengar / xatu, birds. Possibly solo, better with 2 trainers.
   
   catch machop to upgrade.
   
@@ -45,7 +45,7 @@
 
   Best moveset: Zen + Body Slam. Needs candies for upgrading.
 
-* Gardevoir: **Kirlia tier 2 raid * about 10 times. 2times left**
+* Gardevoir: done. **Pending Fast TM to get confusion.**
 
   Best moveset: confusion + dazzling gleam
   
