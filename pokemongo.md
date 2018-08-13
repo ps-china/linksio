@@ -4,7 +4,7 @@
 
 * **Machamp**
 
-  tier 3 raid,  mewtwo / gardevoir / exeggutor? / jynx / gengar / xatu, birds. Possibly solo, better with 2 trainers.
+  tier 3 raid,  mewtwo / gardevoir / jynx / gengar / xatu / espeon; Possibly solo, better with 2 trainers.
   
   catch machop to upgrade.
   
@@ -26,7 +26,7 @@
  
 * Flareon: community day target: fire spin + overheat
 
-* Espeon: community day target: confusion + future sight
+* Espeon: community day target: confusion + future sight. **walk 10km for 2 candies then evolve during the day**
 
 * Alolan Exeggutor: bullet seed + solar beam (*done*, pending fast TM)
 
@@ -68,3 +68,22 @@
 * Vaporeon: community day No.1 target
   
   Best moveset: Water Gun + Hydro Pump
+  
+## Raid
+
+* Porygon: Lv24 Mewtwo / Machamp / Hariyama / Breloom
+  **Raid for TMs!!!**
+
+* Makuhita: need 1 good IV
+
+* Magikarp: need candies / better IVs
+
+* Charmander: need candies
+
+* Kirlia: need candies
+
+## Buddies
+
+* Eevee to walk around for Espeon / Shiny Umbreon!
+
+* Snorlax Candies
