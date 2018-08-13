@@ -71,16 +71,18 @@
   
 ## Raid
 
-* Porygon: Lv24 Mewtwo / Machamp / Hariyama / Breloom
+* Tier3 Yellow Porygon: Lv24 Mewtwo / Machamp / Hariyama / Breloom
   **Raid for TMs!!!**
 
-* Makuhita: need 1 good IV
+* Tier 1 Pink Makuhita: need 1 good IV
 
-* Magikarp: need candies / better IVs
+* Tier 1 Pink Magikarp: need candies / better IVs
 
-* Charmander: need candies
+* Tier 1 Pink Charmander: need candies
 
-* Kirlia: need candies
+* Tier 2 Pink Kirlia: need candies
+
+* Tier 3 Yellow Machamp: doable after getting Espeon / Fast TM to make gardevoir confusion
 
 ## Buddies
 
