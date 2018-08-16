@@ -4,13 +4,13 @@
 
 * **Machamp**
 
-  tier 3 raid,  mewtwo / gardevoir / jynx / gengar / xatu / espeon; Possibly solo, better with 2 trainers.
+  tier 3 raid,  mewtwo / gardevoir / espeon / gengar / xatu / jynx; Possibly solo, better with 2 trainers.
   
   catch machop to upgrade.
   
   best moveset: counter + dynamic punch.
 
-* Hariyama: **tier 1 raid get Makuhita. Need one good IV.**
+* Hariyama: *done 96% IV*
 
   Best moveset: counter + dynamic punch
 
@@ -71,10 +71,8 @@
   
 ## Raid
 
-* Tier3 Yellow Porygon: Lv24 Mewtwo / Machamp / Hariyama / Breloom
+* Tier3 Yellow Porygon: Lv24 Mewtwo / Machamp / Lv25 Hariyama / Breloom
   **Raid for TMs!!!**
-
-* Tier 1 Pink Makuhita: need 1 good IV
 
 * Tier 1 Pink Magikarp: need candies / better IVs
 
