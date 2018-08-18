@@ -10,13 +10,13 @@
   
   best moveset: counter + dynamic punch.
 
-* Hariyama: *done 96% IV*
+* Hariyama: *done 96% IV*  **Pending Fast TM to get counter.**
 
   Best moveset: counter + dynamic punch
 
 ### Raid Attackers
 
-* **Raikou** : Research breakthrough! Fairly low level.
+* **Raikou** : Research breakthrough! Fairly low level. Best Moveset: Thundershock + Wild Charge
 
 * Gyarados: **Catch more karps!!!** for mew event too. 
   
@@ -24,9 +24,9 @@
 
 * Jolteon: community day target: thundershock tbolt
  
-* Flareon: community day target: fire spin + overheat
+* Flareon: community day target: fire spin + overheat 
 
-* Espeon: community day target: confusion + future sight. **walk 10km for 2 candies then evolve during the day**
+* Espeon: community day target: confusion + future sight. *walk 10km for 2 candies then evolve during the day, done*
 
 * Alolan Exeggutor: bullet seed + solar beam (*done*, pending fast TM)
 
@@ -37,7 +37,7 @@
 
 ## Gym Defender
 
-* Chansey: **keep doing 10km eggs.**
+* Chansey: *got one 14/14/14!* **more 10km eggs**
   
   Best moveset: Zen Headbutt or Pound + dazzling gleam
 
@@ -67,23 +67,27 @@
 
 * Vaporeon: community day No.1 target
   
-  Best moveset: Water Gun + Hydro Pump
+  Best moveset: Water Gun + Hydro Pump (Aqual Tail for Gym Defense is fine)
   
 ## Raid
 
-* Tier3 Yellow Porygon: Lv24 Mewtwo / Machamp / Lv25 Hariyama / Breloom
+* Tier3 Yellow Piloswine: Flareon / Vaporeon / Hariyama / Mewtwo / Machamp easy solo.
   **Raid for TMs!!!**
 
 * Tier 1 Pink Magikarp: need candies / better IVs
 
-* Tier 1 Pink Charmander: need candies
-
 * Tier 2 Pink Kirlia: need candies
 
-* Tier 3 Yellow Machamp: doable after getting Espeon / Fast TM to make gardevoir confusion
+* Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion
 
 ## Buddies
 
-* Eevee to walk around for Espeon / Shiny Umbreon!
+* Eevee to walk around Shiny Umbreon!
 
 * Snorlax Candies
+
+* Chansey Candies
+
+* Charmander Candies
+
+* Magikarp Candies
