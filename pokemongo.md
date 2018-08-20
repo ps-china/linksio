@@ -76,7 +76,7 @@
 
 * Tier 2 Pink Kirlia: more candies never harm.
 
-* Tier 2 Pink in Sunny Weather: Need a Bullet Seed + Solar Beam 2000+ one as bulky grass attacker.
+* Tier 2 Pink Alolan Exeggutor in Sunny Weather: Need a Bullet Seed + Solar Beam 2000+ one as bulky grass attacker.
 
 * Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion. Duo in Cloudy Day would be amazing.
 
