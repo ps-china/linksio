@@ -6,8 +6,6 @@
 
   tier 3 raid,  mewtwo / gardevoir / espeon / gengar / xatu / jynx; Possibly solo, better with 2 trainers.
   
-  catch machop to upgrade.
-  
   best moveset: counter + dynamic punch.
 
 * Hariyama: *done 96% IV*  **Pending Fast TM to get counter.**
@@ -74,17 +72,15 @@
 * Tier3 Yellow Piloswine: Flareon / Vaporeon / Hariyama / Mewtwo / Machamp easy solo.
   **Raid for TMs!!!**
 
-* Tier 1 Pink Magikarp: need candies / better IVs
+* Tier 1 Pink Magikarp: need candies / better IVs (>90%)
 
-* Tier 2 Pink Kirlia: need candies
+* Tier 2 Pink Kirlia: more candies never harm.
 
-* Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion
+* Tier 2 Pink in Sunny Weather: Need a Bullet Seed + Solar Beam 2000+ one as bulky grass attacker.
+
+* Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion. Duo in Cloudy Day would be amazing.
 
 ## Buddies
-
-* Eevee to walk around Shiny Umbreon!
-
-* Snorlax Candies
 
 * Chansey Candies
 
