@@ -4,11 +4,11 @@
 
 * **Machamp**
 
-  tier 3 raid,  mewtwo / gardevoir / espeon / gengar / xatu / jynx; Possibly solo, better with 2 trainers.
+  tier 3 raid,  mewtwo / gardevoir / espeon / gengar / xatu / jynx; Possibly solo **if not heavy slam**, better with 2 trainers.
   
   best moveset: counter + dynamic punch.
 
-* Hariyama: *done 96% IV*  **Pending Fast TM to get counter.**
+* Hariyama: *done 96% IV*
 
   Best moveset: counter + dynamic punch
 
@@ -16,7 +16,7 @@
 
 * **Raikou** : Research breakthrough! Fairly low level. Best Moveset: Thundershock + Wild Charge
 
-* Gyarados: **Catch more karps!!!** for mew event too. 
+* Gyarados: **done** for mew event too. 
   
   (Moveset needs waterfall, got 1 amazing karp from tier 1 raid)
 
@@ -26,7 +26,7 @@
 
 * Espeon: community day target: confusion + future sight. *walk 10km for 2 candies then evolve during the day, done*
 
-* Alolan Exeggutor: bullet seed + solar beam (*done*, pending fast TM)
+* Alolan Exeggutor: bullet seed + solar beam (*done*, **need one Windy / Sunny Weather boosted with double grass moves**)
 
   tier 2 raid: Regice + Jynx + Piloswine / Cloyster / Walrein / Crobat
 
@@ -35,48 +35,65 @@
 
 ## Gym Defender
 
+### Defense Masters
+
 * Chansey: *got one 14/14/14!* **more 10km eggs**
   
-  Best moveset: Zen Headbutt or Pound + dazzling gleam
+  Best moveset: Zen Headbutt or Pound + dazzling gleam.
+  
+  Future Endeavor: *Blissey* around CP 1952-2200, and one top LV.
 
 * Snorlax: in field research reward. (*done*)
 
-  Best moveset: Zen + Body Slam. Needs candies for upgrading.
-
-* Gardevoir: done. **Pending Fast TM to get confusion.**
-
-  Best moveset: confusion + dazzling gleam
+  Best moveset: Zen + Body Slam.
   
-  Save some for gallade just maybe
-  
-* Exeggutor: got one, pending fast TM.
+  Future Endeavor: get enough candies to get one top LV.
 
-  Best moveset: confusion + solar beam (But will get Extrasensory / Seed Bomb)
+### Good buddies for Defense Masters
+
+* Gardevoir: done. **Pending Fast TM to get confusion.** And more candies for upgrade are always good.
+
+  Best moveset: confusion + dazzling gleam.
   
-* Clefariy: needs an amazing one. Candies enough now.
+* Dragonite: more 10km eggs needed. Get a very good IV before deciding to evolve. Dragon Tail + Outrage.
+  
+* Milotic: more 10km eggs needed. Get a very good IV before deciding to evolve. Waterfall + Blizzard.
+
+* Vaporeon: got one (strong)
+  
+  Best moveset: Water Gun + Hydro Pump / Aqual Tail
+  
+* Slowbro (preferred) / Slowking. Need CP 1952-2200.
+
+  Best moveset: Confusion + Ice Beam for Slowbro (Blizzard for Slowking)
+  
+* Clefariy: **ready to evolve.** Best 1952 CP for long term gym defense.
 
   Best moveset: Zen + Dazzling Gleam.
 
-* ~~Steelix:
+* Steelix:
 
- ~~Onix in tier 3 raid, needs Alolan Exeggutor(bullet seed + soloar beam, possible in raid)~~
-
-  ~~/ Sceptile (bullet seed + leaf blade) / Gyarados (waterfall) / Swampert / Vaporeon / Victreebel (Razor Leaf)~~
-
-* Vaporeon: community day No.1 target
+  **ready to evolve**, best around 1952-2200 CP
   
-  Best moveset: Water Gun + Hydro Pump (Aqual Tail for Gym Defense is fine)
+  Best Moveset: Iron Tail / Dragon Tail + Heavy Slam / Crunch
+
+* Azumarill: can be maxed out (<1500 CP)
+
+  Got many amazing ones. 
+  
+  Besy moveset: Bubble + Ice Beam / Play Rough
+
   
 ## Raid
 
-* Tier3 Yellow Piloswine: Flareon / Vaporeon / Hariyama / Mewtwo / Machamp easy solo.
+* Tier3 Yellow Piloswine: Flareon / Vaporeon / Hariyama / Blaziken / Mewtwo / Machamp easy solo.
   **Raid for TMs!!!**
 
 * Tier 1 Pink Magikarp: need candies / better IVs (>90%)
 
 * Tier 2 Pink Kirlia: more candies never harm.
 
-* Tier 2 Pink Alolan Exeggutor in Sunny Weather: Need a Bullet Seed + Solar Beam 2000+ one as bulky grass attacker.
+* Tier 2 Pink Alolan Exeggutor in Sunny / Windy Weather: Need a Bullet Seed + Solar Beam 2000+ one as bulky grass attacker.
 
 * Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion. Duo in Cloudy Day would be amazing.
 
@@ -85,5 +102,3 @@
 * Chansey Candies
 
 * Charmander Candies
-
-* Magikarp Candies
