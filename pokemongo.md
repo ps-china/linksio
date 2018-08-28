@@ -16,9 +16,7 @@
 
 * **Raikou** : Research breakthrough! Fairly low level. Best Moveset: Thundershock + Wild Charge
 
-* Gyarados: **done** for mew event too. 
-  
-  (Moveset needs waterfall, got 1 amazing karp from tier 1 raid)
+* Gyarados: **done** Waterfall + Any. Needs more candies for upgrading.
 
 * Jolteon: community day target: thundershock tbolt
  
@@ -31,6 +29,8 @@
   tier 2 raid: Regice + Jynx + Piloswine / Cloyster / Walrein / Crobat
 
 * Legacy shadow claw Gengar: Keep upgrading
+
+* Mewtwo: Keep upgrading
 
 
 ## Gym Defender
@@ -102,3 +102,5 @@
 * Chansey Candies
 
 * Charmander Candies
+
+* Eevee for Celebi Quest
