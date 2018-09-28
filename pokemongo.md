@@ -14,19 +14,19 @@
 
 ### Raid Attackers
 
-* **Raikou** : Research breakthrough! Fairly low level. Best Moveset: Thundershock + Wild Charge
+* Raikou : done. Research breakthrough! Fairly low level. Best moveset: Thundershock + Wild Charge
 
-* Gyarados: **done** Waterfall + Any. Needs more candies for upgrading.
+* Entei: Research breakthrough. Best moveset: Fire spin + Overheat / Flamethrower. Candies low though.
 
-* Jolteon: community day target: thundershock tbolt
+* Gyarados: done. Waterfall + Any. Needs more candies for upgrading.
+
+* Jolteon: done. community day target: thundershock tbolt
  
-* Flareon: community day target: fire spin + overheat 
+* Flareon: done. community day target: fire spin + overheat 
 
-* Espeon: community day target: confusion + future sight. *walk 10km for 2 candies then evolve during the day, done*
+* Espeon: done. community day target: confusion + future sight. *walk 10km for 2 candies then evolve during the day, done*
 
-* Alolan Exeggutor: bullet seed + solar beam (*done*, **need one Windy / Sunny Weather boosted with double grass moves**)
-
-  tier 2 raid: Regice + Jynx + Piloswine / Cloyster / Walrein / Crobat
+* Alolan Exeggutor: bullet seed + solar beam (done, need one Windy / Sunny Weather boosted with double grass moves)
 
 * Legacy shadow claw Gengar: Keep upgrading
 
@@ -67,13 +67,13 @@
 
   Best moveset: Confusion + Ice Beam for Slowbro (Blizzard for Slowking)
   
-* Clefariy: **ready to evolve.** Best 1952 CP for long term gym defense.
+* Clefariy: *done* Best 1952 CP for long term gym defense.
 
-  Best moveset: Zen + Dazzling Gleam.
+  Best moveset: Zen + Dazzling Gleam. *Pending Charge TM to get dazzling gleam.*
 
 * Steelix:
 
-  **ready to evolve**, best around 1952-2200 CP
+  *done*, best around 1952-2200 CP
   
   Best Moveset: Iron Tail / Dragon Tail + Heavy Slam / Crunch
 
@@ -86,21 +86,18 @@
   
 ## Raid
 
-* Tier3 Yellow Piloswine: Flareon / Vaporeon / Hariyama / Blaziken / Mewtwo / Machamp easy solo.
-  **Raid for TMs!!!**
-
 * Tier 1 Pink Magikarp: need candies / better IVs (>90%)
 
-* Tier 2 Pink Kirlia: more candies never harm.
+* Tier 1 Pink Dratini: need candies / better IVs? (>95%)
 
-* Tier 2 Pink Alolan Exeggutor in Sunny / Windy Weather: Need a Bullet Seed + Solar Beam 2000+ one as bulky grass attacker.
+* Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion + get another Espeon or Mewtwo. Duo in Cloudy Day would be amazing.
 
-* Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion. Duo in Cloudy Day would be amazing.
+* Tier 3 Yellow Scyther: Sunny Day Flareon Squad easy. Golem (rock throw + stonde edge) pending evolve.
+
+* Tier 6 Mewtwo: Find group of people. Confusion + Psychic / Ice Beam / Thunderbolt all good.
 
 ## Buddies
 
 * Chansey Candies
-
-* Charmander Candies
 
 * Eevee for Celebi Quest
