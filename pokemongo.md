@@ -92,11 +92,15 @@
 
 * Tier 2 Pink Kirlia: Solo easy. Mostly for candies.
 
-* Tier 2 Pink Slowbro: SB Mewtwo / SC Gengar / Exeggutor Alolan / Jolteon / Raikou. Should be easy.
+* Tier 2 Pink Slowbro: SB Mewtwo / SC Gengar / Exeggutor Alolan / Jolteon / Raikou. Do in windy / rainy weather to get ~1750
 
-* Tier 3 Yellow Starmie Duo: SB Mewtwo / SC Gengar / Exeggutor Alolan / Jolteon / Raikou, even Cacturne.
+* Tier 2 Pink Exeggutor: SB Mewtwo / Flareon / Houndoom / Arcanine. Do in Sunny weather to get > 2020.
 
-* Tier 3 Yellow Jynx Duo: SB Mewtwo / SC Gengar / Flareon / Houdoom / Arcanine.
+* Tier 3 Yellow Jynx Duo: SB Mewtwo / Flareon / Houndoom / Arcanine. Could Solo under Sunny days with Flareon etc.
+
+* Tier 3 Yellow Starmie Duo: SB Mewtwo / Exeggutor Alolan / Jolteon / Raikou, even Cacturne. > 1270 is decent
+
+* Tier 3 Yellow Alakazam Duo: SB Mewtwo / SC Gengar / Houndoom / Kyogre in rain. >1600 is decent
 
 * Tier 6 Mewtwo: Find group of people. Confusion + Psychic / Ice Beam / Thunderbolt all good.
 
