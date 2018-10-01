@@ -4,7 +4,7 @@
 
 * **Machamp**
 
-  tier 3 raid,  mewtwo / gardevoir / espeon / gengar / xatu / jynx; Possibly solo **if not heavy slam**, better with 2 trainers.
+  ~~tier 3 raid,  mewtwo / gardevoir / espeon / gengar / xatu / jynx; Possibly solo **if not heavy slam**, better with 2 trainers.~~
   
   best moveset: counter + dynamic punch.
 
@@ -16,7 +16,9 @@
 
 * Raikou : done. Research breakthrough! Fairly low level. Best moveset: Thundershock + Wild Charge
 
-* Entei: Research breakthrough. Best moveset: Fire spin + Overheat / Flamethrower. Candies low though.
+* Entei: done. Research breakthrough. Best moveset: Fire spin + Overheat / Flamethrower. Candies low though.
+
+* Kyogre: traded lucky. Best moveset: Waterfall + Hydro Pump
 
 * Gyarados: done. Waterfall + Any. Needs more candies for upgrading.
 
@@ -86,13 +88,15 @@
   
 ## Raid
 
-* Tier 1 Pink Magikarp: need candies / better IVs (>90%)
+~~* Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion + get another Espeon or Mewtwo. Duo in Cloudy Day would be amazing.~~
 
-* Tier 1 Pink Dratini: need candies / better IVs? (>95%)
+* Tier 2 Pink Kirlia: Solo easy. Mostly for candies.
 
-* Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion + get another Espeon or Mewtwo. Duo in Cloudy Day would be amazing.
+* Tier 2 Pink Slowbro: SB Mewtwo / SC Gengar / Exeggutor Alolan / Jolteon / Raikou. Should be easy.
 
-* Tier 3 Yellow Scyther: Sunny Day Flareon Squad easy. Golem (rock throw + stonde edge) pending evolve.
+* Tier 3 Yellow Starmie Duo: SB Mewtwo / SC Gengar / Exeggutor Alolan / Jolteon / Raikou, even Cacturne.
+
+* Tier 3 Yellow Jynx Duo: SB Mewtwo / SC Gengar / Flareon / Houdoom / Arcanine.
 
 * Tier 6 Mewtwo: Find group of people. Confusion + Psychic / Ice Beam / Thunderbolt all good.
 
