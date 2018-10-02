@@ -18,7 +18,7 @@
 
 * Entei: done. Research breakthrough. Best moveset: Fire spin + Overheat / Flamethrower. Candies low though.
 
-* Kyogre: traded lucky. Best moveset: Waterfall + Hydro Pump
+* Kyogre: got from trade, also lucky! Best moveset: Waterfall + Hydro Pump
 
 * Gyarados: done. Waterfall + Any. Needs more candies for upgrading.
 
@@ -26,13 +26,13 @@
  
 * Flareon: done. community day target: fire spin + overheat 
 
-* Espeon: done. community day target: confusion + future sight. *walk 10km for 2 candies then evolve during the day, done*
+* Espeon: got 2. community day target: confusion + future sight. *walk 10km for 2 candies then evolve during the day, done*
 
 * Alolan Exeggutor: bullet seed + solar beam (done, need one Windy / Sunny Weather boosted with double grass moves)
 
 * Legacy shadow claw Gengar: Keep upgrading
 
-* Mewtwo: Keep upgrading
+* Mewtwo: Keep upgradingz
 
 
 ## Gym Defender
