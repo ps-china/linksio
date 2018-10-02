@@ -102,7 +102,7 @@
 
 * Tier 3 Yellow Alakazam Duo (currently hard): SB Mewtwo / SC Gengar / Houndoom / Kyogre in rain. >1600 is decent
 
-* Tier 6 **Mewtwo**: Find group of people. Confusion + Psychic / Ice Beam / Thunderbolt all good.
+* Tier 6 **Mewtwo**: Find group of people. Confusion + Psychic / Ice Beam / Thunderbolt all good. Catch a group in windy weather would be great (>2800 CP)
 
 ## Buddies
 
