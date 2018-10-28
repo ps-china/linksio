@@ -4,7 +4,7 @@
 
 * **Machamp**
 
-  ~~tier 3 raid,  mewtwo / gardevoir / espeon / gengar / xatu / jynx; Possibly solo **if not heavy slam**, better with 2 trainers.~~
+ tier 3 raid,  mewtwo * 4 + 2 * espeon, gardevoir if no steel, possible gengar sometimes; Possibly solo **if not heavy slam or if windy**, better with 2 trainers.
   
   best moveset: counter + dynamic punch.
 
@@ -12,13 +12,23 @@
 
   Best moveset: counter + dynamic punch
 
+* 100 IV MMash Metagross: Done.
+
 ### Raid Attackers
 
-* Raikou : done. Research breakthrough! Fairly low level. Best moveset: Thundershock + Wild Charge
+* Shadow Ball Mewtwo: 87%. Lucky Trade?
+
+* Rayquaza: Dragon Tail + Outrage. Lucky Trade?
+
+* Dragonite: Dragon Tail + Outrage.
+
+* 100 IV MMash Metagross: Done.
+
+* Kyogre: Lucky Done. 91%. Best moveset: Waterfall + Hydro Pump
+
+* Raikou : done. Research breakthrough. Fairly low level. Best moveset: Thundershock + Wild Charge
 
 * Entei: done. Research breakthrough. Best moveset: Fire spin + Overheat / Flamethrower. Candies low though.
-
-* Kyogre: got from trade, also lucky! Best moveset: Waterfall + Hydro Pump
 
 * Gyarados: done. Waterfall + Any. Needs more candies for upgrading.
 
@@ -31,9 +41,6 @@
 * Alolan Exeggutor: bullet seed + solar beam (done, need one Windy / Sunny Weather boosted with double grass moves)
 
 * Legacy shadow claw Gengar: Keep upgrading
-
-* Mewtwo: Keep upgradingz
-
 
 ## Gym Defender
 
@@ -53,7 +60,7 @@
 
 ### Good buddies for Defense Masters
 
-* Gardevoir: done. **Pending Fast TM to get confusion.** And more candies for upgrade are always good.
+* Gardevoir: done.
 
   Best moveset: confusion + dazzling gleam.
   
@@ -71,7 +78,7 @@
   
 * Clefariy: *done* Best 1952 CP for long term gym defense.
 
-  Best moveset: Zen + Dazzling Gleam. *Pending Charge TM to get dazzling gleam.*
+  Best moveset: Zen + Dazzling Gleam.
 
 * Steelix:
 
@@ -88,24 +95,12 @@
   
 ## Raid
 
-~~* Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion + get another Espeon or Mewtwo. Duo in Cloudy Day would be amazing.~~
-
-* Tier 2 Pink Kirlia: Solo easy. Mostly for candies.
-
-* Tier 2 Pink **Slowbro**: SB Mewtwo / SC Gengar / Exeggutor Alolan / Jolteon / Raikou. Do in **windy / rainy** weather to get ~1750
-
-* Tier 2 Pink Exeggutor: SB Mewtwo / Flareon / Houndoom / Arcanine. Do in **Sunny** weather to get > 2020.
-
-* Tier 3 Yellow Jynx Duo: SB Mewtwo / Flareon / Houndoom / Arcanine. Could Solo under Sunny days with Flareon etc.
-
-* Tier 3 Yellow **Starmie** Duo (in **rain**): SB Mewtwo / Exeggutor Alolan / Jolteon / Raikou, even Cacturne. > 1270 (1600) is decent
-
-* Tier 3 Yellow Alakazam Duo (currently hard): SB Mewtwo / SC Gengar / Houndoom / Kyogre in rain. >1600 is decent
-
-* Tier 6 **Mewtwo**: Find group of people. Confusion + Psychic / Ice Beam / Thunderbolt all good. Catch a group in windy weather would be great (>2800 CP)
+* Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion + get another Espeon or Mewtwo. Duo in Cloudy Day would be amazing.
 
 ## Buddies
 
 * Chansey Candies
 
-* Eevee for Celebi Quest
+* Milotic Candies
+
+* Snorlax Candies
