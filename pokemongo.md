@@ -4,7 +4,7 @@
 
 * **Machamp**
 
- tier 3 raid,  mewtwo * 4 + 2 * espeon, gardevoir if no steel, possible gengar sometimes; Possibly solo **if not heavy slam or if windy**, better with 2 trainers.
+ tier 3 raid,  mewtwo * 4 + 2 * espeon, gardevoir if no steel, metagross if steel. Possibly solo **if not dynamic punch or if windy**, better with 2 trainers.
   
   best moveset: counter + dynamic punch.
 
@@ -30,6 +30,10 @@
 
 * Entei: done. Research breakthrough. Best moveset: Fire spin + Overheat / Flamethrower. Candies low though.
 
+* Legacy shadow claw Gengar: Keep upgrading
+
+* Lick Gengar: pending charge TM to get shadow ball. got 5 good ones, two lucky ones.
+
 * Gyarados: done. Waterfall + Any. Needs more candies for upgrading.
 
 * Jolteon: done. community day target: thundershock tbolt
@@ -40,7 +44,6 @@
 
 * Alolan Exeggutor: bullet seed + solar beam (done, need one Windy / Sunny Weather boosted with double grass moves)
 
-* Legacy shadow claw Gengar: Keep upgrading
 
 ## Gym Defender
 
@@ -59,16 +62,12 @@
   Future Endeavor: get enough candies to get one top LV.
 
 ### Good buddies for Defense Masters
-
-* Gardevoir: done.
-
-  Best moveset: confusion + dazzling gleam.
   
 * Dragonite: more 10km eggs needed. Get a very good IV before deciding to evolve. Dragon Tail + Outrage.
   
-* Milotic: more 10km eggs needed. Get a very good IV before deciding to evolve. Waterfall + Blizzard.
+* Milotic: *98% done.* Waterfall + Blizzard. Need more candies.
 
-* Vaporeon: got one (strong)
+* Vaporeon: got two (strong)
   
   Best moveset: Water Gun + Hydro Pump / Aqual Tail
   
@@ -96,6 +95,8 @@
 ## Raid
 
 * Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion + get another Espeon or Mewtwo. Duo in Cloudy Day would be amazing.
+
+* Tier 4 Alolan Marowak / Tyranitar.
 
 ## Buddies
 
