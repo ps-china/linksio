@@ -44,6 +44,19 @@
 
 * Alolan Exeggutor: bullet seed + solar beam (done, need one Windy / Sunny Weather boosted with double grass moves)
 
+## Raid Team Build
+
+* Confusion Shadow Ball Mewtwo L30, Shadow Claw Shadow Ball Gengar L30, Lick Shadow Ball Gengar L30
+
+* 2x Snarl Foul Play Houndoom L30
+
+* 2x Bullet Punch Meteor Mash Metagross L30
+
+* 2x Counter Dynamic Punch Machamp L30
+
+* 2x Counter Dynamic Punch Hariyama L30
+
+
 
 ## Gym Defender
 
@@ -96,7 +109,9 @@
 
 * Tier 3 Yellow Machamp: more doable after gardevoir TMed to confusion + get another Espeon or Mewtwo. Duo in Cloudy Day would be amazing.
 
-* Tier 4 Alolan Marowak / Tyranitar.
+* Tier 4 Alolan Marowak / Tyranitar: follow discord group.
+
+* Tier 4 Togekiss: easy trio with metagross squad.
 
 ## Buddies
 
@@ -105,3 +120,5 @@
 * Milotic Candies
 
 * Snorlax Candies
+
+* Togekiss Candies
