@@ -34,7 +34,7 @@
 
 * Rayquaza: Dragon Tail + Outrage. Lucky Trade?
 
-* Dragonite: Dragon Tail + Outrage. **December Weekend. Aim to get 3 or more good IV (>=93) dratinis.
+* Dragonite: Dragon Tail + Outrage. **December Weekend. Aim to get 3 or more good IV (>=93) dratinis.**
 
 * Salamence: Future Community Day.
 
@@ -157,14 +157,16 @@
 
 ## December Weekend
 
-* Good IVs: Larvitar (>=3) Dratini (>=2) Charmander(>=1) bulbasaur(1)
+* Good IVs: **Larvitar (>=3) Dratini (>=2)** Charmander(>=1) bulbasaur(1)
 
 * Shiny Dex: 
-Eevee(3)
-Charmander(3) 
+**Eevee(3)
+Charmander(3)** 
 Mareep(3)
 Pikachu(2)
 Dratini(3)
 bulbasaur(2)
 Chikorita(3)
 Larvitar(3)
+
+* Trade: LPZ Beldums with Dratini / Larvitar / Charmander for luckies. 
