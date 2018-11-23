@@ -4,7 +4,7 @@
 
 * **Machamp**
 
- tier 3 raid,  mewtwo * 4 + 2 * espeon, gardevoir if no steel, metagross if steel. Possibly solo **if not dynamic punch or if windy**, better with 2 trainers.
+ tier 3 raid,  mewtwo * 3 + 2 * gengar + gardevoir if dynamic punch; 2 metagross + 4 Psychic if steel. Trivial if Close Combat. Can solo unless Dynamic Punch under Cloudy.
   
   best moveset: counter + dynamic punch.
 
@@ -62,6 +62,7 @@
 
 * 100 IV MMash Metagross: Done. [one more high IV MM Meta]
 
+
 #### Fire
 
 * Entei: done. Research breakthrough. Best moveset: Fire spin + Overheat / Flamethrower. Candies low though.
@@ -79,10 +80,20 @@
 
 * Espeon: got 2. confusion + future sight.
 
+* Gardevoir: got 93%. Confusion + Dazzling Gleam.
+
 
 #### Rock
 
 * Smack Down Ttar. **December Weekend. Aim to get >= 3 good ones.**
+
+* Got lucky perfect Rhydon for future Rock Recker maybe.
+
+* Highest DPS Rampardos in the future.
+
+#### Ice:
+
+* Mamoswine in the future. Aim to get 2-3 good ones.
 
 #### Grass:
 
@@ -91,10 +102,6 @@
 * Venasaur: Vine Whip + Frenzy Plant Good DPS/TDO **December Weekend. Aim to get 2 good ones.**
 
 * Alolan Exeggutor: Good TDO against Kyogre. bullet seed + solar beam
-
-#### Ice:
-
-* Mamoswine in the future. Aim to get 2-3 good ones.
 
 ## Gym Defenders
 
