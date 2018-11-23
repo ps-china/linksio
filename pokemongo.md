@@ -169,4 +169,6 @@ bulbasaur(2)
 Chikorita(3)
 Larvitar(3)
 
-* Trade: LPZ Beldums with Dratini / Larvitar / Charmander for luckies. 
+* Trade: LPZ Beldums with Dratini / Larvitar (/ Charmander) for luckies. 
+
+* Candies to gain: Larvitar(>450) Dratini(>400) Charmander(>200) bulbasaur(200) Beldum(>150) Chikorita(150) Mareep(150) 
