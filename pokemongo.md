@@ -161,14 +161,14 @@
 
 * Shiny Dex: 
 **Eevee(3)
-Charmander(3)** 
-Mareep(3)
-Pikachu(2)
+Charmander(1)** 
+Mareep(2)
+Pikachu(0-1)
 Dratini(3)
 bulbasaur(2)
 Chikorita(3)
-Larvitar(3)
+Larvitar(1)
 
 * Trade: LPZ Beldums with Dratini / Larvitar (/ Charmander) for luckies. 
 
-* Candies to gain: Larvitar(>450) Dratini(>400) Charmander(>200) bulbasaur(200) Beldum(>150) Chikorita(150) Mareep(150) 
+* Candies to gain: Larvitar(>350) Dratini(>200) bulbasaur(150) Beldum(>50) Chikorita(150) Mareep(150) 
