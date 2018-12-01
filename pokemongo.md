@@ -157,13 +157,13 @@
 
 ## December Weekend
 
-* Good IVs: **Larvitar (>=3) Dratini (>=2)** Charmander(>=1) bulbasaur(1)
+* Good IVs: **Larvitar (>=1) Dratini (>=2)** Charmander(>=1) bulbasaur(1)
 
 * Shiny Dex: 
 **Eevee(3)
 Charmander(1)** 
 Mareep(2)
-Pikachu(0-1)
+Pikachu(0)
 Dratini(3)
 bulbasaur(2)
 Chikorita(3)
@@ -171,4 +171,4 @@ Larvitar(1)
 
 * Trade: LPZ Beldums with Dratini / Larvitar (/ Charmander) for luckies. 
 
-* Candies to gain: Larvitar(>350) Dratini(>200) bulbasaur(150) Beldum(>50) Chikorita(150) Mareep(150) 
+* Candies to gain: Larvitar(>200) Dratini(>200) bulbasaur(100) Beldum(>50) Chikorita(150) Mareep(150) 
