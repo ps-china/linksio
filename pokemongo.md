@@ -18,7 +18,7 @@
 
 #### Ghost / Dark
 
-* Shadow Ball Mewtwo: 87%. Lucky Trade?
+* Shadow Ball Mewtwo: 87% L30. Lucky Trade?
 
 * Legacy shadow claw Gengar: Keep upgrading
 
@@ -34,7 +34,7 @@
 
 * Rayquaza: Dragon Tail + Outrage. Lucky Trade?
 
-* Dragonite: Dragon Tail + Outrage. **December Weekend. Aim to get 3 or more good IV (>=93) dratinis.**
+* Dragonite: Dragon Tail + Outrage. **Aim to get 3 or more good IV (>=93) dratinis.**
 
 * Salamence: Future Community Day.
 
@@ -60,16 +60,16 @@
 
 #### Steel
 
-* 100 IV MMash Metagross: Done. [one more high IV MM Meta]
+* MMash Metagross: Done. [one 100 IV L30, two 98 IV, one 96 IV L23, one 91 IV L30]
 
 
 #### Fire
 
 * Entei: done. Research breakthrough. Best moveset: Fire spin + Overheat / Flamethrower. Candies low though.
 
-* Charizard: Fire spin + Blast Burn. **December Weekend. Aim to get >= 2 good ones.**
+* Charizard: Fire spin + Blast Burn. done. [one 96 IV L30, one lucky 89 IV]
 
-* Flareon: done. community day target: fire spin + overheat 
+* Flareon: done. fire spin + overheat.
 
 * Heatran when it gets signature moves.
  
@@ -85,7 +85,7 @@
 
 #### Rock
 
-* Smack Down Ttar. **December Weekend. Aim to get >= 3 good ones.**
+* Smack Down Ttar. done [got 3 lucky, 93%, 96% and 96%]
 
 * Got lucky perfect Rhydon for future Rock Recker maybe.
 
@@ -99,7 +99,7 @@
 
 * Roserade highest DPS.
 
-* Venasaur: Vine Whip + Frenzy Plant Good DPS/TDO **December Weekend. Aim to get 2 good ones.**
+* Venasaur: Vine Whip + Frenzy Plant Good DPS/TDO. done [got two 15 attack 93%+, pending power up]
 
 * Alolan Exeggutor: Good TDO against Kyogre. bullet seed + solar beam
 
@@ -121,7 +121,7 @@
 
 ### Good buddies for Defense Masters
   
-* Milotic: *98% done.* Waterfall + Blizzard. Need more candies.
+* Milotic: *98% done.* Waterfall + Blizzard. got L30. 
 
 * Vaporeon: got two (strong)
   
@@ -141,9 +141,9 @@
 
 * Tier 2 Pink Electabuzz: aim for good IV.
 
-* ~~Tier 3 Yellow Machamp: solo-able unless Dynamic Punch in cloudy.~~
+* Tier 3 Yellow Machamp: solo-able unless Dynamic Punch in cloudy.
 
-* Tier 4 Alolan Marowak / Absol ~~/ Tyranitar~~ and Tier 5 for charge TMs: follow discord group.
+* Tier 4 Alolan Marowak / Absol / Tyranitar and Tier 5 for charge TMs: follow discord group.
 
 ## Buddies
 
@@ -155,20 +155,3 @@
 
 * Togekiss Candies
 
-## December Weekend
-
-* Good IVs: **Larvitar (>=1) Dratini (>=2)** Charmander(>=1) bulbasaur(1)
-
-* Shiny Dex: 
-**Eevee(3)
-Charmander(1)** 
-Mareep(2)
-Pikachu(0)
-Dratini(3)
-bulbasaur(2)
-Chikorita(3)
-Larvitar(1)
-
-* Trade: LPZ Beldums with Dratini / Larvitar (/ Charmander) for luckies. 
-
-* Candies to gain: Larvitar(>200) Dratini(>200) bulbasaur(100) Beldum(>50) Chikorita(150) Mareep(150) 
