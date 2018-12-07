@@ -139,8 +139,6 @@
   
 ## Raid
 
-* Tier 2 Pink Electabuzz: aim for good IV.
-
 * Tier 3 Yellow Machamp: solo-able unless Dynamic Punch in cloudy.
 
 * Tier 4 Alolan Marowak / Absol / Tyranitar and Tier 5 for charge TMs: follow discord group.
